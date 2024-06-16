@@ -4,6 +4,8 @@ on:
   schedule: # execute every 24 hours
     - cron: "* */24 * * *"
   workflow_dispatch:
+  push:
+    branches: main
 
 jobs:
   build:
@@ -19,3 +21,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 9
