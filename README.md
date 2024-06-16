@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![TWITTER_X URL][badge-url]][twitter_x]
+[badge-url]: https://img.shields.io/twitter/url?label=%40i9wa4_&style=social&url=https%3A%2F%2Fx.com%2Fi9wa4_
+[twitter_x]: https://x.com/i9wa4_
+
 [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
