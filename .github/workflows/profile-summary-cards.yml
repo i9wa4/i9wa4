@@ -2,7 +2,8 @@ name: GitHub-Profile-Summary-Cards
 
 on:
   schedule: # execute on the first day of each month
-    - cron: "0 0 1 * *"
+    # - cron: "0 0 1 * *"
+    - cron: "0 14 L * ? *"
   workflow_dispatch:
 
 jobs:
