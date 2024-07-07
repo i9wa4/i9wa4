@@ -2,6 +2,21 @@
 
 ## Hi there 👋
 
+I'm i9wa4 (eeh-koo-wah-yoh, いくわよ)
+
+- 🔭 I’m currently working on ...
+    - Data Engineering
+    - MLOps Engineering
+- 📝 My favorite text editor is ...
+    - Vim / Neovim
+- 🥃 My favorite whisky is ...
+    - Suntory Yamazaki Single Malt Whiskey
+- 📫 How to reach me: ...
+    - X: <https://x.com/i9wa4_>
+    - Bluesky: <https://bsky.app/profile/i9wa4.bsky.social>
+- 😄 Pronouns: ...
+    - he/him
+
 <!--
 **i9wa4/i9wa4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
