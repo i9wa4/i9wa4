@@ -1,10 +1,4 @@
----
-title: "i9wa4's profile"
-format:
-  gfm:
-    output-file: "README"
-    output-ext: "md"
----
+# i9wa4's profile
 
 ## Hi there 👋
 
