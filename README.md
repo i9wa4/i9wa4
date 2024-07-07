@@ -15,6 +15,8 @@
 - ⚡ Fun fact: ...
 -->
 
+\[!NOTE\] This page is deployed here: <https://i9wa4.github.io/i9wa4>.
+
 ## Hi there 👋
 
 I’m i9wa4 (eeh-koo-wah-yoh, いくわよ)
