@@ -4,12 +4,11 @@ format:
   html:
     output-file: "index"
     output-ext: "html"
-    toc: false
-    embed-resources: true
     standalone: true
   gfm:
     output-file: "README"
     output-ext: "md"
+format-links: false
 ---
 
 ## Hi there 👋
