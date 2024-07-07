@@ -15,7 +15,8 @@
 - ⚡ Fun fact: ...
 -->
 
-> **NOTE:** This page is deployed here: <https://i9wa4.github.io/i9wa4>.
+> **NOTE:** GitHub Profile <https://github.com/i9wa4> is deployed here:
+> <https://i9wa4.github.io/i9wa4>.
 
 ## Hi there 👋
 
