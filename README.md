@@ -15,7 +15,7 @@
 - ⚡ Fun fact: ...
 -->
 
-\[!NOTE\] This page is deployed here: <https://i9wa4.github.io/i9wa4>.
+> \[!NOTE\] This page is deployed here: <https://i9wa4.github.io/i9wa4>.
 
 ## Hi there 👋
 
