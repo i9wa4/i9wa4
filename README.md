@@ -23,17 +23,36 @@
 I’m i9wa4 (ikuwayo, eeh-koo-wah-yoh, いくわよ).
 
 - 🔭 I’m currently working on …
+
   - Data Engineering
   - MLOps Engineering
+
 - 📝 My favorite text editor: …
+
   - Vim/Neovim
+
 - 🍺 My favorite whiskey: …
+
   - Suntory Yamazaki Single Malt Whiskey
-- 📫 How to reach me: …
-  - X: <https://x.com/i9wa4_>
-  - Bluesky: <https://bsky.app/profile/i9wa4.bsky.social>
+
 - 😄 Pronouns: …
+
   - he/him
+
+- 📫 How to reach me: …
+
+  |         |                                              |
+  |--------:|:---------------------------------------------|
+  |       X | <https://x.com/i9wa4_>                       |
+  | Bluesky | <https://bsky.app/profile/i9wa4.bsky.social> |
+
+- 🔗 Additional links: …
+
+  |           |                                  |
+  |----------:|:---------------------------------|
+  | Main Page | <https://i9wa4.github.io>        |
+  |      Blog | <https://i9wa4.github.io/blog>   |
+  |    Resume | <https://i9wa4.github.io/resume> |
 
 ## GitHub Stats
 
