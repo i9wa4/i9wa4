@@ -20,7 +20,7 @@
 
 ## Hi there 👋
 
-I’m i9wa4 (ikuwayo, eeh-koo-wah-yoh, いくわよ).
+I’m i9wa4 (ikuwayo, いくわよ).
 
 - 🔭 I’m currently working on …
 
