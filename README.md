@@ -15,9 +15,6 @@
 - ⚡ Fun fact: ...
 -->
 
-> **NOTE:** GitHub Profile <https://github.com/i9wa4> is deployed here:
-> <https://i9wa4.github.io/i9wa4>.
-
 ## Hello, I’m i9wa4 (ikuwayo, いくわよ) 👋
 
 - 🔭 I’m currently working on …
@@ -41,16 +38,21 @@
 
   |         |                                              |
   |--------:|:---------------------------------------------|
+  |  GitHub | <https://github.com/i9wa4>                   |
   |       X | <https://x.com/i9wa4_>                       |
   | Bluesky | <https://bsky.app/profile/i9wa4.bsky.social> |
 
 - 🔗 Additional links: …
 
-  |           |                                  |
-  |----------:|:---------------------------------|
-  | Main Page | <https://i9wa4.github.io>        |
-  |      Blog | <https://i9wa4.github.io/blog>   |
-  |    Resume | <https://i9wa4.github.io/resume> |
+  |         |                                  |
+  |--------:|:---------------------------------|
+  | Profile | <https://i9wa4.github.io/i9wa4>  |
+  |    Blog | <https://i9wa4.github.io/blog>   |
+  |  Slides | <https://i9wa4.github.io/slides> |
+  |  Resume | <https://i9wa4.github.io/resume> |
+
+> **NOTE:** GitHub Profile <https://github.com/i9wa4> is deployed here:
+> <https://i9wa4.github.io/i9wa4>.
 
 ## GitHub Stats
 
