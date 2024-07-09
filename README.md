@@ -18,7 +18,7 @@
 > **NOTE:** GitHub Profile <https://github.com/i9wa4> is deployed here:
 > <https://i9wa4.github.io/i9wa4>.
 
-## 1. Hello, I’m i9wa4 (ikuwayo, いくわよ) 👋
+## Hello, I’m i9wa4 (ikuwayo, いくわよ) 👋
 
 - 🔭 I’m currently working on …
 
@@ -52,7 +52,7 @@
   |      Blog | <https://i9wa4.github.io/blog>   |
   |    Resume | <https://i9wa4.github.io/resume> |
 
-## 2. GitHub Stats
+## GitHub Stats
 
 [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
