@@ -51,8 +51,8 @@
   |  Slides | <https://i9wa4.github.io/slides> |
   |  Resume | <https://i9wa4.github.io/resume> |
 
-> **NOTE:** GitHub Profile <https://github.com/i9wa4> is deployed here:
-> <https://i9wa4.github.io/i9wa4>.
+> **NOTE:** GitHub Profile <https://github.com/i9wa4> is the same as my
+> profile page: <https://i9wa4.github.io/i9wa4>.
 
 ## GitHub Stats
 
