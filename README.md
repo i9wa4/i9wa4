@@ -1,14 +1,14 @@
 # i9wa4’s profile
 
-2024-07-08
+2024-07-09
 
 <!--
 **i9wa4/i9wa4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 &#10;Here are some ideas to get you started:
-&#10;- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+&#10;- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
@@ -18,9 +18,7 @@
 > **NOTE:** GitHub Profile <https://github.com/i9wa4> is deployed here:
 > <https://i9wa4.github.io/i9wa4>.
 
-## Hi there 👋
-
-I’m i9wa4 (ikuwayo, いくわよ).
+## 1. Hello, I’m i9wa4 (ikuwayo, いくわよ) 👋
 
 - 🔭 I’m currently working on …
 
@@ -54,7 +52,7 @@ I’m i9wa4 (ikuwayo, いくわよ).
   |      Blog | <https://i9wa4.github.io/blog>   |
   |    Resume | <https://i9wa4.github.io/resume> |
 
-## GitHub Stats
+## 2. GitHub Stats
 
 [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
