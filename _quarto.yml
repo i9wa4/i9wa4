@@ -4,7 +4,8 @@ project:
 
 website:
   title: "i9wa4's profile"
-  site-url: "https://i9wa4.github.io/i9wa4/"
+  # site-url: "https://i9wa4.github.io/i9wa4/"
+  site-url: "https://i9wa4.github.io/"
   navbar:
     left:
       - href: "https://i9wa4.github.io"
