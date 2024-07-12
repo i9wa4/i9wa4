@@ -15,7 +15,7 @@
 - ⚡ Fun fact: ...
 -->
 
-## Hello, I’m i9wa4 (ikuwayo, いくわよ) 👋
+## Hello, I’m [@i9wa4](https://github.com/i9wa4) 👋
 
 - 🔭 I’m currently working on …
 
