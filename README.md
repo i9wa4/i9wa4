@@ -1,6 +1,6 @@
 # i9wa4’s profile
 
-2024-07-12
+2024-07-14
 
 <!--
 **i9wa4/i9wa4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -52,10 +52,9 @@
 
   <!-- | Slides  | <https://i9wa4.github.io/slides> | -->
 
-> **NOTE:** GitHub Profile <https://github.com/i9wa4> is the same as my
-> profile page: <https://i9wa4.github.io/i9wa4>.
-
 ## GitHub Stats
+
+:octocat:
 
 [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
