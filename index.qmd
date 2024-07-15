@@ -2,7 +2,7 @@
 title: "i9wa4's profile"
 image: "assets/icon_hhkb2.jpg"
 about:
-  template: solana
+  template: marquee
   links:
     - icon: github
       text: "i9wa4"
