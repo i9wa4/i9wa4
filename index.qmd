@@ -1,15 +1,15 @@
 ---
 title: "i9wa4's profile"
-image: assets/icon_hhkb2.jpg
+image: "assets/icon_hhkb2.jpg"
 about:
   template: jolla
   links:
     - icon: twitter-x
-      text: @i9wa4_
-      href: https://x.com/i9wa4_
+      text: "@i9wa4_"
+      href: "https://x.com/i9wa4_"
     - icon: github
-      text: @i9wa4
-      href: https://github.com/i9wa4
+      text: "@i9wa4"
+      href: "https://github.com/i9wa4"
 format:
   html:
     output-file: "index"
