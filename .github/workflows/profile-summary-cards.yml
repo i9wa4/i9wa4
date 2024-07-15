@@ -3,6 +3,8 @@ name: GitHub-Profile-Summary-Cards
 on:
   schedule:
     - cron: "0 14 28 * *"
+  push:
+    branches: main
 
 jobs:
   build:
@@ -10,7 +12,8 @@ jobs:
     permissions:
       contents: write
     name: generate
-
+    env:
+      TZ: 'Asia/Tokyo'
     steps:
       - uses: actions/checkout@v2
       - uses: vn7n24fzkq/github-profile-summary-cards@release
