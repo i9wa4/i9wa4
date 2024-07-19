@@ -47,9 +47,8 @@
   |--------:|:---------------------------------|
   | Profile | <https://i9wa4.github.io/i9wa4>  |
   |    Blog | <https://i9wa4.github.io/blog>   |
+  |  Slides | <https://i9wa4.github.io/slides> |
   |  Resume | <https://i9wa4.github.io/resume> |
-
-  <!-- | Slides  | <https://i9wa4.github.io/slides> | -->
 
 ## GitHub Stats
 
