@@ -1,6 +1,5 @@
 ---
 title: "i9wa4's profile"
-date: last-modified
 image: "/assets/icon_hhkb2.jpg"
 about:
   template: marquee
