@@ -4,7 +4,7 @@ date: last-modified
 image: "/assets/icon_hhkb2.jpg"
 about:
   template: marquee
-  image-width: 10em
+  image-width: 9em
   image-shape: round
   links:
     - icon: github
