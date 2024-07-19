@@ -16,16 +16,7 @@ jobs:
       TZ: 'Asia/Tokyo'
     steps:
       - uses: actions/checkout@v2
-      - name: GitHub Profile Summary Cards to stats
-        uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: "stats"
-          UTC_OFFSET: 9
-      - name: GitHub Profile Summary Cards to main
-        uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
         with:
