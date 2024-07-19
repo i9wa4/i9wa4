@@ -1,8 +1,9 @@
-name: GitHub Profile Summary Cards
+name: GitHub-Profile-Summary-Cards
 
 on:
-  schedule:
-    - cron: "0 14 28 * *"
+  schedule: # execute every 24 hours
+    - cron: "* */24 * * *"
+  workflow_dispatch:
   push:
     branches: main
 
