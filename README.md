@@ -14,7 +14,7 @@
 - ⚡ Fun fact: ...
 -->
 
-## 1. Hello, I’m i9wa4 👋
+## Hello, I’m i9wa4 👋
 
 - 🔭 I’m currently working on …
 
@@ -51,10 +51,10 @@
 
   <!-- | Slides  | <https://i9wa4.github.io/slides> | -->
 
-## 2. GitHub Stats
+## GitHub Stats
 
-[![](https://raw.githubusercontent.com/i9wa4/i9wa4/gh-pages/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/i9wa4/i9wa4/gh-pages/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/i9wa4/i9wa4/gh-pages/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/i9wa4/i9wa4/gh-pages/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/i9wa4/i9wa4/gh-pages/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
