@@ -2,7 +2,7 @@ name: GitHub-Profile-Summary-Cards
 
 on:
   schedule: # every day at 23:55 JST
-    - cron: "55 8 * * *"
+    - cron: "55 14 * * *"
   push:
     branches:
       - main
