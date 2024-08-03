@@ -16,6 +16,10 @@
 
 ## Hello, I’m i9wa4 👋
 
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+
+![](https://komarev.com/ghpvc/?username=i9wa4.png)
+
 - 🔭 I’m currently working on …
 
   - Data Engineering
@@ -58,3 +62,11 @@
 [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+## GitHub Stats2
+
+[![i9wa4’s GitHub
+stats](https://github-readme-stats.vercel.app/api?username=i9wa4.png)](https://github.com/anuraghazra/github-readme-stats)
+
+![i9wa4’s GitHub
+stats](https://github-readme-stats.vercel.app/api?username=i9wa4&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage.png)
