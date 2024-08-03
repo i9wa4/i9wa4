@@ -35,9 +35,8 @@
 #       runner: go run
 pre-commit:
   commands:
-    venv-activate:
-      run: . "${PY_VENV_MYENV}"/bin/activate
     quarto-render:
-      run: quarto render
-    venv-deactivate:
-      run: deactivate
+      run: . "${PY_VENV_MYENV}"/bin/activate
+        && quarto render
+        && cp ./docs/README.md .
+        && deactivate
