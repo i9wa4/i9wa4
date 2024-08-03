@@ -18,7 +18,8 @@
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 
-![](https://komarev.com/ghpvc/?username=i9wa4.png)
+![i9wa4’s profile views
+counter](https://komarev.com/ghpvc/?username=i9wa4.png)
 
 - 🔭 I’m currently working on …
 
@@ -65,8 +66,11 @@
 
 ## GitHub Stats2
 
-[![i9wa4’s GitHub
-stats](https://github-readme-stats.vercel.app/api?username=i9wa4.png)](https://github.com/anuraghazra/github-readme-stats)
+![i9wa4’s GitHub
+stats](https://github-readme-stats.vercel.app/api?username=i9wa4.png)\](https://github.com/anuraghazra/github-readme-stats)
 
 ![i9wa4’s GitHub
 stats](https://github-readme-stats.vercel.app/api?username=i9wa4&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage.png)
+
+![i9wa4’s GitHub
+stats](https://github-readme-stats.vercel.app/api?username=i9wa4&show_icons=true&theme=transparent.png)
