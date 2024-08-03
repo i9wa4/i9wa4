@@ -25,7 +25,7 @@
 - ⚡ Fun fact: ...
 -->
 
-## Hello, I’m i9wa4 working as a Data Engineer/MLOps Engineer 👋
+## I’m i9wa4, a Data Engineer with a focus on MLOps 👋
 
 |         |                                  |
 |--------:|:---------------------------------|
