@@ -92,7 +92,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Amazon_EC2-FF9900.svg?logo=amazonec2&style=plastic">
   <img src="https://img.shields.io/badge/-AWS_Cloud9-999999.svg?style=plastic">
   <img src="https://img.shields.io/badge/-AWS_Step_Functions-999999.svg?style=plastic">
-  <img src="https://img.shields.io/badge/-Amazon_MWAA-999999.svg?style=plastic">
+  <img src="https://img.shields.io/badge/-Amazon_MWAA(Airflow)-999999.svg?logo=apacheairflow&style=plastic">
   <img src="https://img.shields.io/badge/-Amazon_SageMaker-999999.svg?style=plastic">
 </div>
 <div align="left">
