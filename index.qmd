@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 <div align="left">
   <img src="https://img.shields.io/badge/-Google_Cloud-4285F4.svg?logo=google-cloud&style=plastic">
   <img src="https://img.shields.io/badge/-BigQuery-669DF6.svg?logo=googlebigquery&style=plastic">
-  <img src="https://img.shields.io/badge/-Google_Pub/Sub-AECBFA.svg?logo=googlepubsubstyle=plastic">
+  <img src="https://img.shields.io/badge/-Google_Pub/Sub-AECBFA.svg?logo=googlepubsub&style=plastic">
   <img src="https://img.shields.io/badge/-Cloud_Functions-000000.svg?style=plastic">
   <img src="https://img.shields.io/badge/-Compute_Engine-000000.svg?style=plastic">
   <img src="https://img.shields.io/badge/-Datastream-000000.svg?style=plastic">
