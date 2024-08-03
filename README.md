@@ -114,6 +114,13 @@
   <img src="https://img.shields.io/badge/-Embulk-EF4319.svg?style=plastic">
 
   </div>
+- AI/ML:
+  <div align="left">
+
+  <img src="https://img.shields.io/badge/-DataRobot-000000.svg?style=plastic">
+  <img src="https://img.shields.io/badge/-Snowpark_ML-29B5E8.svg?style=plastic">
+
+  </div>
 - Text Editor:
   <div align="left">
 
