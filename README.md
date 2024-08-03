@@ -50,7 +50,7 @@
 
   </div>
 - Cloud Computing Service:
-  - <img src="https://img.shields.io/badge/-AWS-232F3E.svg?logo=amazon-web-services&style=plastic">
+  - AWS:
     <div align="left">
 
     <img src="https://img.shields.io/badge/-Amazon_EC2-FF9900.svg?logo=amazonec2&style=plastic">
@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/badge/-Amazon_SageMaker-000000.svg?style=plastic">
 
     </div>
-  - <img src="https://img.shields.io/badge/-Google_Cloud-4285F4.svg?logo=google-cloud&style=plastic">
+  - Google Cloud:
     <div align="left">
 
     <img src="https://img.shields.io/badge/-BigQuery-669DF6.svg?logo=googlebigquery&style=plastic">
