@@ -60,11 +60,35 @@
 
 ## Skills
 
+<!-- https://github.com/tandpfun/skill-icons -->
+<!-- https://simpleicons.org/ -->
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/-macOS-999999.svg?logo=apple&style=plastic">
+<img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=plastic">
+<img src="https://img.shields.io/badge/-Ubuntu-E95420.svg?logo=ubuntu&style=plastic">
+<img src="https://img.shields.io/badge/-Windows-00A4EF.svg?style=plastic">
+
+</div>
+
 <div align="left">
 
 <a href="https://github.com/tandpfun/skill-icons">
 <img src="https://skillicons.dev/icons?i=apple,linux,ubuntu,windows"/>
 </a>
+
+</div>
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/-AWS-232F3E.svg?logo=amazon-web-services&style=plastic">
+
+</div>
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/-Google%20Cloud-4285F4.svg?logo=google-cloud&style=plastic">
 
 </div>
 
@@ -77,6 +101,16 @@
 
 <div align="left">
 
+<img src="https://img.shields.io/badge/-Bash-999999.svg?style=plastic">
+<img src="https://img.shields.io/badge/-C-A8B9CC.svg?logo=c&style=plastic">
+<img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic">
+<img src="https://img.shields.io/badge/-SQL-999999.svg?style=plastic">
+<img src="https://img.shields.io/badge/-TypeScript-3178C6.svg?logo=typescript&style=plastic">
+
+</div>
+
+<div align="left">
+
 <a href="https://github.com/tandpfun/skill-icons">
 <img src="https://skillicons.dev/icons?i=bash,c,py,ts"/> </a>
 
@@ -84,8 +118,22 @@
 
 <div align="left">
 
+<img src="https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysqlstyle=plastic">
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1.svg?logo=postgresql&style=plastic">
+
+</div>
+
+<div align="left">
+
 <a href="https://github.com/tandpfun/skill-icons">
 <img src="https://skillicons.dev/icons?i=mysql,postgres"/> </a>
+
+</div>
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysqlstyle=plastic">
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1.svg?logo=postgresql&style=plastic">
 
 </div>
 
@@ -100,7 +148,10 @@
 <div align="left">
 
 <a href="https://github.com/tandpfun/skill-icons">
-<img src="https://skillicons.dev/icons?i=neovim,vim,vscode"/> </a>
+<img src="https://skillicons.dev/icons?i=neovim,vim,vscode"/>
+<img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=plastic">
+<img src="https://img.shields.io/badge/-Neovim-007ACC.svg?logo=neovim&style=plastic">
+</a>
 
 </div>
 
