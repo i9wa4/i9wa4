@@ -1,18 +1,6 @@
 # i9wa4’s profile
 
 
-<div align="left">
-
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-<img src="https://komarev.com/ghpvc/?username=i9wa4&label=GitHub_Profile_Views"/>
-</a>
-
-</div>
-
-[![GitHub](https://img.shields.io/badge/GitHub-i9wa4-181717.svg?logo=github&style=plastic)](https://github.com/i9wa4)
-[![X](https://img.shields.io/badge/X-i9wa4__-000000.svg?logo=x&style=plastic)](https://x.com/i9wa4_)
-[![Bluesky](https://img.shields.io/badge/Bluesky-i9wa4_-0285FF.svg?logo=bluesky&style=plastic)](https://bsky.app/profile/i9wa4.bsky.social)
-
 <!--
 **i9wa4/i9wa4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 &#10;Here are some ideas to get you started:
@@ -25,6 +13,18 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="left">
+
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<img src="https://komarev.com/ghpvc/?username=i9wa4&label=GitHub_Profile_Views"/>
+</a>
+
+</div>
+
+[![GitHub](https://img.shields.io/badge/GitHub-i9wa4-181717.svg?logo=github&style=plastic)](https://github.com/i9wa4)
+[![X](https://img.shields.io/badge/X-i9wa4__-000000.svg?logo=x&style=plastic)](https://x.com/i9wa4_)
+[![Bluesky](https://img.shields.io/badge/Bluesky-i9wa4_-0285FF.svg?logo=bluesky&style=plastic)](https://bsky.app/profile/i9wa4.bsky.social)
 
 ## I’m i9wa4, a Data Engineer with a focus on MLOps 👋
 
@@ -112,6 +112,13 @@
   <img src="https://img.shields.io/badge/-Datastream-000000.svg?style=plastic">
   <img src="https://img.shields.io/badge/-dbt-FF694B.svg?logo=dbt&style=plastic">
   <img src="https://img.shields.io/badge/-Embulk-EF4319.svg?style=plastic">
+
+  </div>
+- AI/ML:
+  <div align="left">
+
+  <img src="https://img.shields.io/badge/-DataRobot-000000.svg?style=plastic">
+  <img src="https://img.shields.io/badge/-Snowpark_ML-29B5E8.svg?style=plastic">
 
   </div>
 - Text Editor:
