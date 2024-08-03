@@ -67,6 +67,9 @@
 [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i9wa4&theme=transparent" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i9wa4&theme=transparent.png)
+
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 ![GitHub
