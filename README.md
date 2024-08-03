@@ -30,15 +30,20 @@
 
 - 📝 My favorite text editor: …
 
-  - Vim/Neovim
+  - <div align="left">
 
-- 🍺 My favorite whiskey: …
+    <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=plastic">
+    <img src="https://img.shields.io/badge/-Neovim-007ACC.svg?logo=neovim&style=plastic">
 
-  - Suntory Yamazaki Single Malt Whiskey
+    </div>
 
 - 😄 Pronouns: …
 
   - he/him
+
+- 🍺 My favorite whiskey: …
+
+  - Suntory Yamazaki Single Malt Whiskey
 
 - 📫 How to reach me: …
 
@@ -78,10 +83,10 @@
 
   <img src="https://img.shields.io/badge/-AWS-232F3E.svg?logo=amazon-web-services&style=plastic">
   <img src="https://img.shields.io/badge/-Amazon_EC2-FF9900.svg?logo=amazonec2&style=plastic">
-  <img src="https://img.shields.io/badge/-AWS_Cloud9-999999.svg?style=plastic">
-  <img src="https://img.shields.io/badge/-AWS_Step_Functions-999999.svg?style=plastic">
-  <img src="https://img.shields.io/badge/-Amazon_MWAA-999999.svg?style=plastic">
-  <img src="https://img.shields.io/badge/-Amazon_SageMaker-999999.svg?style=plastic">
+  <img src="https://img.shields.io/badge/-AWS_Cloud9-000000.svg?style=plastic">
+  <img src="https://img.shields.io/badge/-AWS_Step_Functions-000000.svg?style=plastic">
+  <img src="https://img.shields.io/badge/-Amazon_MWAA(Airflow)-000000.svg?logo=apacheairflow&style=plastic">
+  <img src="https://img.shields.io/badge/-Amazon_SageMaker-000000.svg?style=plastic">
 
   </div>
 
@@ -89,37 +94,38 @@
 
   <img src="https://img.shields.io/badge/-Google_Cloud-4285F4.svg?logo=google-cloud&style=plastic">
   <img src="https://img.shields.io/badge/-BigQuery-669DF6.svg?logo=googlebigquery&style=plastic">
-  <img src="https://img.shields.io/badge/-Compute_Engine-999999.svg?style=plastic">
-  <img src="https://img.shields.io/badge/-Cloud_Functions-999999.svg?style=plastic">
-  <img src="https://img.shields.io/badge/-Datastream-999999.svg?style=plastic">
+  <img src="https://img.shields.io/badge/-Compute_Engine-000000.svg?style=plastic">
+  <img src="https://img.shields.io/badge/-Cloud_Functions-000000.svg?style=plastic">
+  <img src="https://img.shields.io/badge/-Datastream-000000.svg?style=plastic">
 
   </div>
 - Language:
   <div align="left">
 
-  <img src="https://img.shields.io/badge/-Bash-999999.svg?style=plastic">
+  <img src="https://img.shields.io/badge/-Bash-000000.svg?style=plastic">
   <img src="https://img.shields.io/badge/-C-A8B9CC.svg?logo=c&style=plastic">
   <img src="https://img.shields.io/badge/-HCL-844FBA.svg?logo=terraform&style=plastic">
   <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic">
-  <img src="https://img.shields.io/badge/-SQL-999999.svg?style=plastic">
+  <img src="https://img.shields.io/badge/-SQL-000000.svg?style=plastic">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6.svg?logo=typescript&style=plastic">
 
   </div>
-- DB:
+- Database:
   <div align="left">
 
   <img src="https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=plastic">
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1.svg?logo=postgresql&style=plastic">
 
   </div>
-- IaC:
+- IaC (Infrastructure as Code):
   <div align="left">
 
   <img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=plastic">
+  <img src="https://img.shields.io/badge/-Terraform-844FBA.svg?logo=terraform&style=plastic">
   <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=plastic">
   <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=plastic">
   <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF.svg?logo=githubactions&style=plastic">
-  <img src="https://img.shields.io/badge/-Terraform-844FBA.svg?logo=terraform&style=plastic">
+  <img src="https://img.shields.io/badge/-AWS_CodeCommit-000000.svg?style=plastic">
 
   </div>
 - Data Engineering:
@@ -127,7 +133,7 @@
 
   <img src="https://img.shields.io/badge/-Snowflake-29B5E8.svg?logo=snowflake&style=plastic">
   <img src="https://img.shields.io/badge/-BigQuery-669DF6.svg?logo=googlebigquery&style=plastic">
-  <img src="https://img.shields.io/badge/-Datastream-999999.svg?style=plastic">
+  <img src="https://img.shields.io/badge/-Datastream-000000.svg?style=plastic">
   <img src="https://img.shields.io/badge/-dbt-FF694B.svg?logo=dbt&style=plastic">
   <img src="https://img.shields.io/badge/-Embulk-EF4319.svg?style=plastic">
 
@@ -143,20 +149,15 @@
 
 ## GitHub Stats
 
-<!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
-
-(https://github.com/vn7n24fzkq/github-profile-summary-cards)
-<!-- (https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
-<!-- [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 <!-- <div align="left">                                                                                                              -->
 <!--   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">                                                         -->
 <!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=i9wa4&theme=transparent"/>                -->
 <!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=i9wa4&theme=transparent"/> -->
 <!--   </a>                                                                                                                          -->
 <!-- </div>                                                                                                                          -->
-
 <!-- <div align="left">                                                                                                                                            -->
 <!--   <a href="https://github.com/anuraghazra/github-readme-stats">                                                                                               -->
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=i9wa4&show_icons=true&include_all_commits=true&theme=transparent"/>                         -->
