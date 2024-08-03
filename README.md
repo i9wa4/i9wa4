@@ -60,16 +60,47 @@
 
 ## Skills
 
-<div style="display: flex; flex-wrap: wrap;">
+<div align="left">
 
 <a href="https://github.com/tandpfun/skill-icons">
 <img src="https://skillicons.dev/icons?i=apple,linux,ubuntu,windows"/>
-<img src="https://skillicons.dev/icons?i=aws,gcp"/>
-<img src="https://skillicons.dev/icons?i=bash,c,py,ts"/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,terraform"/>
-<img src="https://skillicons.dev/icons?i=neovim,vim,vscode,windows"/>
 </a>
+
+</div>
+
+<div align="left">
+
+<a href="https://github.com/tandpfun/skill-icons">
+<img src="https://skillicons.dev/icons?i=aws,gcp"/> </a>
+
+</div>
+
+<div align="left">
+
+<a href="https://github.com/tandpfun/skill-icons">
+<img src="https://skillicons.dev/icons?i=bash,c,py,ts"/> </a>
+
+</div>
+
+<div align="left">
+
+<a href="https://github.com/tandpfun/skill-icons">
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/> </a>
+
+</div>
+
+<div align="left">
+
+<a href="https://github.com/tandpfun/skill-icons">
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,terraform"/>
+</a>
+
+</div>
+
+<div align="left">
+
+<a href="https://github.com/tandpfun/skill-icons">
+<img src="https://skillicons.dev/icons?i=neovim,vim,vscode"/> </a>
 
 </div>
 
