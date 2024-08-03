@@ -105,14 +105,14 @@
   <img src="https://img.shields.io/badge/-TypeScript-3178C6.svg?logo=typescript&style=plastic">
 
   </div>
-- DB:
+- Database:
   <div align="left">
 
   <img src="https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=plastic">
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1.svg?logo=postgresql&style=plastic">
 
   </div>
-- IaC:
+- IaC (Infrastructure as Code):
   <div align="left">
 
   <img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=plastic">
