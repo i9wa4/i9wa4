@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=i9wa4&theme=transparent"/>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=i9wa4&theme=transparent"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/productive-time/stats?username=i9wa4&theme=transparent"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/productive-time?username=i9wa4&theme=transparent"/>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=i9wa4&show_icons=true&include_all_commits=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i9wa4&langs_count=8&include_all_commits=true&layout=compact&theme=transparent)

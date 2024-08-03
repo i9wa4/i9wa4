@@ -73,7 +73,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=i9wa4&theme=transparent"/>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=i9wa4&theme=transparent"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/productive-time/stats?username=i9wa4&theme=transparent"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/productive-time?username=i9wa4&theme=transparent"/>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
