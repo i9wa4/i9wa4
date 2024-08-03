@@ -16,10 +16,11 @@
 
 ## Hello, I’m i9wa4 👋
 
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+<div align="left">
 
-![](https://komarev.com/ghpvc/?username=i9wa4.png)
-![](%22https://komarev.com/ghpvc/?username=i9wa4%22.png)
+<img src="https://komarev.com/ghpvc/?username=i9wa4" />
+
+</div>
 
 - 🔭 I’m currently working on …
 
