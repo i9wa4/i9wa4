@@ -62,10 +62,15 @@
 <!-- https://github.com/tandpfun/skill-icons -->
 
 [![OS](https://skillicons.dev/icons?i=apple,linux,ubuntu,windows.png)](https://skillicons.dev)
+
 [![Cloud](https://skillicons.dev/icons?i=aws,gcp.png)](https://skillicons.dev)
+
 [![Language](https://skillicons.dev/icons?i=bash,c,py,ts.png)](https://skillicons.dev)
+
 [![DB](https://skillicons.dev/icons?i=mysql,postgres.png)](https://skillicons.dev)
+
 [![IaC](https://skillicons.dev/icons?i=docker,git,github,githubactions,terraform.png)](https://skillicons.dev)
+
 [![Editor](https://skillicons.dev/icons?i=neovim,vim,vscode,windows.png)](https://skillicons.dev)
 
 ## GitHub Stats
