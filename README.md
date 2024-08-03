@@ -87,7 +87,7 @@
 
 <div align="left">
 
-<img src="https://img.shields.io/badge/-Google%20Cloud-4285F4.svg?logo=google-cloud&style=plastic">
+<img src="https://img.shields.io/badge/-Google_Cloud-4285F4.svg?logo=google-cloud&style=plastic">
 
 </div>
 
@@ -144,7 +144,7 @@
 
 <img src="https://img.shields.io/badge/-Neovim-007ACC.svg?logo=neovim&style=plastic">
 <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=plastic">
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0098FF.svg?style=plastic">
+<img src="https://img.shields.io/badge/-Visual_Studio_Code-0098FF.svg?style=plastic">
 
 </div>
 
