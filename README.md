@@ -60,7 +60,7 @@
 
 ## Skills
 
-<div align="left">
+<div style="display: flex; flex-wrap: wrap;">
 
 <a href="https://github.com/tandpfun/skill-icons">
 <img src="https://skillicons.dev/icons?i=apple,linux,ubuntu,windows"/>
@@ -76,40 +76,27 @@
 ## GitHub Stats
 
 <!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
+
 [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <!-- [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 <!-- [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<!-- <div align="left">                                                                                                              -->
+<!--   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">                                                         -->
+<!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=i9wa4&theme=transparent"/>                -->
+<!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=i9wa4&theme=transparent"/> -->
+<!--   </a>                                                                                                                          -->
+<!-- </div>                                                                                                                          -->
 
-<div align="left">
-
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=i9wa4&theme=transparent"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=i9wa4&theme=transparent"/>
-</a>
-
-</div>
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=i9wa4&show_icons=true&include_all_commits=true&theme=transparent.png)
-![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i9wa4&langs_count=8&include_all_commits=true&layout=compact&theme=transparent.png)
-
-<div align="left">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=i9wa4&show_icons=true&include_all_commits=true&theme=transparent"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i9wa4&langs_count=8&include_all_commits=true&layout=compact&theme=transparent"/>
-</a>
-
-</div>
-
-<div align="left">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=i9wa4&theme=flat"/>
-</a>
-
-</div>
+<!-- <div align="left">                                                                                                                                            -->
+<!--   <a href="https://github.com/anuraghazra/github-readme-stats">                                                                                               -->
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=i9wa4&show_icons=true&include_all_commits=true&theme=transparent"/>                         -->
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i9wa4&langs_count=8&include_all_commits=true&layout=compact&theme=transparent"/> -->
+<!--   </a>                                                                                                                                                        -->
+<!-- </div>                                                                                                                                                        -->
+<!-- <div align="left">                                                                   -->
+<!--   <a href="https://github.com/ryo-ma/github-profile-trophy">                         -->
+<!--     <img src="https://github-profile-trophy.vercel.app/?username=i9wa4&theme=flat"/> -->
+<!--   </a>                                                                               -->
+<!-- </div>                                                                               -->
