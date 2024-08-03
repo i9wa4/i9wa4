@@ -50,30 +50,29 @@
 
   </div>
 - Cloud Computing Service:
-  <div align="left">
+  - <img src="https://img.shields.io/badge/-AWS-232F3E.svg?logo=amazon-web-services&style=plastic">
+    <div align="left">
 
-  <img src="https://img.shields.io/badge/-AWS-232F3E.svg?logo=amazon-web-services&style=plastic">
-  <img src="https://img.shields.io/badge/-Amazon_EC2-FF9900.svg?logo=amazonec2&style=plastic">
-  <img src="https://img.shields.io/badge/-Amazon_ECS-FF9900.svg?logo=amazonecs&style=plastic">
-  <img src="https://img.shields.io/badge/-Amazon_S3-569A31.svg?logo=amazons3&style=plastic">
-  <img src="https://img.shields.io/badge/-AWS_Cloud9-000000.svg?style=plastic">
-  <img src="https://img.shields.io/badge/-AWS_CodeCommit-000000.svg?style=plastic">
-  <img src="https://img.shields.io/badge/-AWS_Step_Functions-000000.svg?style=plastic">
-  <img src="https://img.shields.io/badge/-Amazon_MWAA_(Airflow)-000000.svg?style=plastic">
-  <img src="https://img.shields.io/badge/-Amazon_SageMaker-000000.svg?style=plastic">
+    <img src="https://img.shields.io/badge/-Amazon_EC2-FF9900.svg?logo=amazonec2&style=plastic">
+    <img src="https://img.shields.io/badge/-Amazon_ECS-FF9900.svg?logo=amazonecs&style=plastic">
+    <img src="https://img.shields.io/badge/-Amazon_S3-569A31.svg?logo=amazons3&style=plastic">
+    <img src="https://img.shields.io/badge/-AWS_Cloud9-000000.svg?style=plastic">
+    <img src="https://img.shields.io/badge/-AWS_CodeCommit-000000.svg?style=plastic">
+    <img src="https://img.shields.io/badge/-AWS_Step_Functions-000000.svg?style=plastic">
+    <img src="https://img.shields.io/badge/-Amazon_MWAA_(Airflow)-000000.svg?style=plastic">
+    <img src="https://img.shields.io/badge/-Amazon_SageMaker-000000.svg?style=plastic">
 
-  </div>
+    </div>
+  - <img src="https://img.shields.io/badge/-Google_Cloud-4285F4.svg?logo=google-cloud&style=plastic">
+    <div align="left">
 
-  <div align="left">
+    <img src="https://img.shields.io/badge/-BigQuery-669DF6.svg?logo=googlebigquery&style=plastic">
+    <img src="https://img.shields.io/badge/-Google_Pub/Sub-AECBFA.svg?logo=googlepubsub&style=plastic">
+    <img src="https://img.shields.io/badge/-Cloud_Functions-000000.svg?style=plastic">
+    <img src="https://img.shields.io/badge/-Compute_Engine-000000.svg?style=plastic">
+    <img src="https://img.shields.io/badge/-Datastream-000000.svg?style=plastic">
 
-  <img src="https://img.shields.io/badge/-Google_Cloud-4285F4.svg?logo=google-cloud&style=plastic">
-  <img src="https://img.shields.io/badge/-BigQuery-669DF6.svg?logo=googlebigquery&style=plastic">
-  <img src="https://img.shields.io/badge/-Google_Pub/Sub-AECBFA.svg?logo=googlepubsub&style=plastic">
-  <img src="https://img.shields.io/badge/-Cloud_Functions-000000.svg?style=plastic">
-  <img src="https://img.shields.io/badge/-Compute_Engine-000000.svg?style=plastic">
-  <img src="https://img.shields.io/badge/-Datastream-000000.svg?style=plastic">
-
-  </div>
+    </div>
 - Language:
   <div align="left">
 
