@@ -65,7 +65,9 @@
 [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=i9wa4&show_icons=true&theme=transparent) -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 
+![GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=i9wa4&show_icons=true&include_all_commits=true&theme=transparent.png)
 ![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i9wa4&langs_count=8&theme=transparent.png)
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i9wa4&langs_count=8&include_all_commits=true&layout=compact&theme=transparent.png)
