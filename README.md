@@ -116,10 +116,11 @@
   <div align="left">
 
   <img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=plastic">
+  <img src="https://img.shields.io/badge/-Terraform-844FBA.svg?logo=terraform&style=plastic">
   <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=plastic">
   <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=plastic">
   <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF.svg?logo=githubactions&style=plastic">
-  <img src="https://img.shields.io/badge/-Terraform-844FBA.svg?logo=terraform&style=plastic">
+  <img src="https://img.shields.io/badge/-AWS_CodeCommit-999999.svg?style=plastic">
 
   </div>
 - Data Engineering:
