@@ -16,6 +16,10 @@
 
 ## Hello, I’m i9wa4 👋
 
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+
+![](https://komarev.com/ghpvc/?username=i9wa4.png)
+
 - 🔭 I’m currently working on …
 
   - Data Engineering
