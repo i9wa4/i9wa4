@@ -61,6 +61,7 @@
 ## Skills
 
 <!-- https://github.com/tandpfun/skill-icons -->
+<!-- https://tech-blog.s-yoshiki.com/entry/150/ -->
 <!-- https://simpleicons.org/ -->
 
 <div align="left">
@@ -72,13 +73,11 @@
 
 </div>
 
-<div align="left">
-
-<a href="https://github.com/tandpfun/skill-icons">
-<img src="https://skillicons.dev/icons?i=apple,linux,ubuntu,windows"/>
-</a>
-
-</div>
+<!-- <div align="left">                                                         -->
+<!--   <a href="https://github.com/tandpfun/skill-icons">                       -->
+<!--     <img src="https://skillicons.dev/icons?i=apple,linux,ubuntu,windows"/> -->
+<!--   </a>                                                                     -->
+<!-- </div>                                                                     -->
 
 <div align="left">
 
@@ -92,12 +91,11 @@
 
 </div>
 
-<div align="left">
-
-<a href="https://github.com/tandpfun/skill-icons">
-<img src="https://skillicons.dev/icons?i=aws,gcp"/> </a>
-
-</div>
+<!-- <div align="left">                                      -->
+<!--   <a href="https://github.com/tandpfun/skill-icons">    -->
+<!--     <img src="https://skillicons.dev/icons?i=aws,gcp"/> -->
+<!--   </a>                                                  -->
+<!-- </div>                                                  -->
 
 <div align="left">
 
@@ -109,31 +107,28 @@
 
 </div>
 
+<!-- <div align="left">                                           -->
+<!--   <a href="https://github.com/tandpfun/skill-icons">         -->
+<!--     <img src="https://skillicons.dev/icons?i=bash,c,py,ts"/> -->
+<!--   </a>                                                       -->
+<!-- </div>                                                       -->
+
 <div align="left">
 
-<a href="https://github.com/tandpfun/skill-icons">
-<img src="https://skillicons.dev/icons?i=bash,c,py,ts"/> </a>
-
-</div>
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysqlstyle=plastic">
+<img src="https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=plastic">
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1.svg?logo=postgresql&style=plastic">
 
 </div>
 
+<!-- <div align="left">                                             -->
+<!--   <a href="https://github.com/tandpfun/skill-icons">           -->
+<!--     <img src="https://skillicons.dev/icons?i=mysql,postgres"/> -->
+<!--   </a>                                                         -->
+<!-- </div>                                                         -->
+
 <div align="left">
 
-<a href="https://github.com/tandpfun/skill-icons">
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/> </a>
-
-</div>
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysqlstyle=plastic">
-<img src="https://img.shields.io/badge/-PostgreSQL-4169E1.svg?logo=postgresql&style=plastic">
+<img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=plastic">
 
 </div>
 
@@ -147,13 +142,17 @@
 
 <div align="left">
 
-<a href="https://github.com/tandpfun/skill-icons">
-<img src="https://skillicons.dev/icons?i=neovim,vim,vscode"/>
-<img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=plastic">
 <img src="https://img.shields.io/badge/-Neovim-007ACC.svg?logo=neovim&style=plastic">
-</a>
+<img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=plastic">
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0098FF.svg?style=plastic">
 
 </div>
+
+<!-- <div align="left">                                                -->
+<!--   <a href="https://github.com/tandpfun/skill-icons">              -->
+<!--     <img src="https://skillicons.dev/icons?i=neovim,vim,vscode"/> -->
+<!--   </a>                                                            -->
+<!-- </div>                                                            -->
 
 ## GitHub Stats
 
