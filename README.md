@@ -56,11 +56,16 @@
     <img src="https://img.shields.io/badge/AWS_Cloud9--000000.svg?style=plastic">
     <img src="https://img.shields.io/badge/AWS_CodeCommit--000000.svg?style=plastic">
     <img src="https://img.shields.io/badge/AWS_Step_Functions--000000.svg?style=plastic">
+    <img src="https://img.shields.io/badge/Amazon_Aurora--000000.svg?style=plastic">
     <img src="https://img.shields.io/badge/Amazon_EC2--FF9900.svg?logo=amazonec2&style=plastic">
     <img src="https://img.shields.io/badge/Amazon_ECS--FF9900.svg?logo=amazonecs&style=plastic">
     <img src="https://img.shields.io/badge/Amazon_MWAA_(Airflow)--000000.svg?style=plastic">
+    <img src="https://img.shields.io/badge/Amazon_RDS--527FFF.svg?logo=amazonrds&style=plastic">
     <img src="https://img.shields.io/badge/Amazon_S3--569A31.svg?logo=amazons3&style=plastic">
     <img src="https://img.shields.io/badge/Amazon_SageMaker--000000.svg?style=plastic">
+    <img src="https://img.shields.io/badge/Amazon_Secrets_Manager--000000.svg?style=plastic">
+    <img src="https://img.shields.io/badge/Amazon_Systems_Manager--000000.svg?style=plastic">
+    <img src="https://img.shields.io/badge/Amazon_VPC--000000.svg?style=plastic">
 
     </div>
   - Google Cloud:
