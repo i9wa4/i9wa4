@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 - OS:
 <div align="left">
   <img src="https://img.shields.io/badge/Linux--FCC624.svg?logo=linux&style=plastic">
+  <img src="https://img.shields.io/badge/Amazon_Linux--808080.svg?logo=linux&style=plastic">
   <img src="https://img.shields.io/badge/Ubuntu--E95420.svg?logo=ubuntu&style=plastic">
   <img src="https://img.shields.io/badge/Windows--00A4EF.svg?style=plastic">
   <img src="https://img.shields.io/badge/macOS--999999.svg?logo=apple&style=plastic">
