@@ -40,3 +40,4 @@ pre-commit:
         && quarto render
         && cp ./docs/README.md .
         && deactivate
+      stage_fixed: true
