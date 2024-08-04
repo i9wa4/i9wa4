@@ -22,9 +22,6 @@
 
 </div>
 
-[![GitHub Profile Views
-Counter](https://komarev.com/ghpvc/?username=i9wa4&label=GitHub_Profile_Views.png)](https://github.com/antonkomarev/github-profile-views-counter)
-
 [![GitHub](https://img.shields.io/badge/GitHub-i9wa4-181717.svg?logo=github&style=plastic)](https://github.com/i9wa4)
 [![X](https://img.shields.io/badge/X-i9wa4__-808080.svg?logo=x&style=plastic)](https://x.com/i9wa4_)
 [![Bluesky](https://img.shields.io/badge/Bluesky-i9wa4_-0285FF.svg?logo=bluesky&style=plastic)](https://bsky.app/profile/i9wa4.bsky.social)
@@ -44,8 +41,6 @@ Counter](https://komarev.com/ghpvc/?username=i9wa4&label=GitHub_Profile_Views.pn
 <!-- https://simpleicons.org/ -->
 
 - OS
-  - <img src="https://img.shields.io/badge/Linux--FCC624.svg?logo=linux&style=plastic">
-
   - [![Linux](https://img.shields.io/badge/Linux--FCC624.svg?logo=linux&style=plastic)](https://shields.io/)
 
   - ![Linux](https://img.shields.io/badge/Linux--FCC624.svg?logo=linux&style=plastic)
