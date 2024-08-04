@@ -40,7 +40,7 @@
 <!-- https://tech-blog.s-yoshiki.com/entry/150/ -->
 <!-- https://simpleicons.org/ -->
 
-- OS:
+- OS
   <div align="left">
 
   <img src="https://img.shields.io/badge/Linux--FCC624.svg?logo=linux&style=plastic">
@@ -50,26 +50,29 @@
   <img src="https://img.shields.io/badge/macOS--999999.svg?logo=apple&style=plastic">
 
   </div>
-- Cloud Computing Service:
-  - AWS:
+- Cloud Computing Service
+  - <img src="https://img.shields.io/badge/Amazon_Web_Services--232F3E.svg?logo=amazonwebservices&style=plastic">
     <div align="left">
 
     <img src="https://img.shields.io/badge/AWS_Cloud9--808080.svg?style=plastic">
     <img src="https://img.shields.io/badge/AWS_CodeCommit--808080.svg?style=plastic">
+    <img src="https://img.shields.io/badge/AWS_Lambda--FF9900.svg?logo=awslambda&style=plastic">
+    <img src="https://img.shields.io/badge/AWS_Secrets_Manager--DD344C.svg?logo=awssecretsmanager&style=plastic">
     <img src="https://img.shields.io/badge/AWS_Step_Functions--808080.svg?style=plastic">
+    <img src="https://img.shields.io/badge/AWS_Systems_Manager--808080.svg?style=plastic">
+    <img src="https://img.shields.io/badge/Amazon_Athena--808080.svg?style=plastic">
     <img src="https://img.shields.io/badge/Amazon_Aurora--808080.svg?style=plastic">
+    <img src="https://img.shields.io/badge/Amazon_CloudWatch--FF4F8B.svg?logo=amazoncloudwatch&style=plastic">
     <img src="https://img.shields.io/badge/Amazon_EC2--FF9900.svg?logo=amazonec2&style=plastic">
     <img src="https://img.shields.io/badge/Amazon_ECS--FF9900.svg?logo=amazonecs&style=plastic">
     <img src="https://img.shields.io/badge/Amazon_MWAA_(Airflow)--808080.svg?style=plastic">
     <img src="https://img.shields.io/badge/Amazon_RDS--527FFF.svg?logo=amazonrds&style=plastic">
     <img src="https://img.shields.io/badge/Amazon_S3--569A31.svg?logo=amazons3&style=plastic">
     <img src="https://img.shields.io/badge/Amazon_SageMaker--808080.svg?style=plastic">
-    <img src="https://img.shields.io/badge/Amazon_Secrets_Manager--808080.svg?style=plastic">
-    <img src="https://img.shields.io/badge/Amazon_Systems_Manager--808080.svg?style=plastic">
     <img src="https://img.shields.io/badge/Amazon_VPC--808080.svg?style=plastic">
 
     </div>
-  - Google Cloud:
+  - <img src="https://img.shields.io/badge/Google_Cloud--4285F4.svg?logo=googlecloud&style=plastic">
     <div align="left">
 
     <img src="https://img.shields.io/badge/BigQuery--669DF6.svg?logo=googlebigquery&style=plastic">
@@ -79,7 +82,7 @@
     <img src="https://img.shields.io/badge/Google_Pub/Sub--AECBFA.svg?logo=googlepubsub&style=plastic">
 
     </div>
-- Language:
+- Language
   <div align="left">
 
   <img src="https://img.shields.io/badge/Bash--808080.svg?style=plastic">
@@ -91,14 +94,14 @@
   <img src="https://img.shields.io/badge/TypeScript--3178C6.svg?logo=typescript&style=plastic">
 
   </div>
-- Database:
+- Database
   <div align="left">
 
   <img src="https://img.shields.io/badge/MySQL--4479A1.svg?logo=mysql&style=plastic">
   <img src="https://img.shields.io/badge/PostgreSQL--4169E1.svg?logo=postgresql&style=plastic">
 
   </div>
-- IaC (Infrastructure as Code):
+- IaC (Infrastructure as Code)
   <div align="left">
 
   <img src="https://img.shields.io/badge/AWS_CodeCommit--808080.svg?style=plastic">
@@ -109,7 +112,7 @@
   <img src="https://img.shields.io/badge/Terraform--844FBA.svg?logo=terraform&style=plastic">
 
   </div>
-- Data Engineering:
+- Data Engineering
   <div align="left">
 
   <img src="https://img.shields.io/badge/BigQuery--669DF6.svg?logo=googlebigquery&style=plastic">
@@ -119,14 +122,14 @@
   <img src="https://img.shields.io/badge/dbt--FF694B.svg?logo=dbt&style=plastic">
 
   </div>
-- AI/ML:
+- AI/ML
   <div align="left">
 
   <img src="https://img.shields.io/badge/DataRobot--808080.svg?style=plastic">
   <img src="https://img.shields.io/badge/Snowpark_ML--29B5E8.svg?style=plastic">
 
   </div>
-- Text Editor:
+- Text Editor
   <div align="left">
 
   <img src="https://img.shields.io/badge/Neovim--007ACC.svg?logo=neovim&style=plastic">
