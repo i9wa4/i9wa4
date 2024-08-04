@@ -42,6 +42,7 @@
 
 - OS
   - <img src="https://img.shields.io/badge/Linux--FCC624.svg?logo=linux&style=plastic">
+  - [![Linux](https://img.shields.io/badge/Linux--FCC624.svg?logo=linux&style=plastic)](https://shields.io/)
     - <img src="https://img.shields.io/badge/Amazon_Linux--808080.svg?style=plastic">
       <img src="https://img.shields.io/badge/Ubuntu--E95420.svg?logo=ubuntu&style=plastic">
   - <img src="https://img.shields.io/badge/Windows--00A4EF.svg?style=plastic">
