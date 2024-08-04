@@ -43,9 +43,11 @@
 - OS
   - [![Linux](https://img.shields.io/badge/Linux--FCC624.svg?logo=linux&style=plastic)](https://shields.io/)
     - [![Amazon_Linux](https://img.shields.io/badge/Amazon_Linux--808080.svg?style=plastic)](https://shields.io/)
+      [![CentOS](https://img.shields.io/badge/CentOS--262577.svg?logo=centos&style=plastic)](https://shields.io/)
       [![Ubuntu](https://img.shields.io/badge/Ubuntu--E95420.svg?logo=ubuntu&style=plastic)](https://shields.io/)
   - [![Windows](https://img.shields.io/badge/Windows--00A4EF.svg?style=plastic)](https://shields.io/)
   - [![macOS](https://img.shields.io/badge/macOS--999999.svg?logo=apple&style=plastic)](https://shields.io/)
+
 - Cloud Computing Service
   - [![Amazon_Web_Services](https://img.shields.io/badge/Amazon_Web_Services--232F3E.svg?logo=amazonwebservices&style=plastic)](https://shields.io/)
     - [![AWS_Cloud9](https://img.shields.io/badge/AWS_Cloud9--808080.svg?style=plastic)](https://shields.io/)
@@ -70,6 +72,7 @@
       [![Compute_Engine](https://img.shields.io/badge/Compute_Engine--808080.svg?style=plastic)](https://shields.io/)
       [![Datastream](https://img.shields.io/badge/Datastream--808080.svg?style=plastic)](https://shields.io/)
       [![Google_Pub/Sub](https://img.shields.io/badge/Google_Pub/Sub--AECBFA.svg?logo=googlepubsub&style=plastic)](https://shields.io/)
+
 - Language
   - [![Bash](https://img.shields.io/badge/Bash--808080.svg?style=plastic)](https://shields.io/)
     [![C](https://img.shields.io/badge/C--A8B9CC.svg?logo=c&style=plastic)](https://shields.io/)
@@ -78,9 +81,11 @@
     [![Python](https://img.shields.io/badge/Python--3776AB.svg?logo=python&style=plastic)](https://shields.io/)
     [![SQL](https://img.shields.io/badge/SQL--808080.svg?style=plastic)](https://shields.io/)
     [![TypeScript](https://img.shields.io/badge/TypeScript--3178C6.svg?logo=typescript&style=plastic)](https://shields.io/)
+
 - Database
   - [![MySQL](https://img.shields.io/badge/MySQL--4479A1.svg?logo=mysql&style=plastic)](https://shields.io/)
     [![PostgreSQL](https://img.shields.io/badge/PostgreSQL--4169E1.svg?logo=postgresql&style=plastic)](https://shields.io)
+
 - IaC (Infrastructure as Code)
   - [![AWS_CodeCommit](https://img.shields.io/badge/AWS_CodeCommit--808080.svg?style=plastic)](https://shields.io)
     [![Docker](https://img.shields.io/badge/Docker--1488C6.svg?logo=docker&style=plastic)](https://shields.io)
@@ -88,31 +93,23 @@
     [![GitHub](https://img.shields.io/badge/GitHub--181717.svg?logo=github&style=plastic)](https://shields.io)
     [![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions--2088FF.svg?logo=githubactions&style=plastic)](https://shields.io)
     [![Terraform](https://img.shields.io/badge/Terraform--844FBA.svg?logo=terraform&style=plastic)](https://shields.io)
+
 - Data Engineering
-  <div align="left">
+  - [![BigQuery](https://img.shields.io/badge/BigQuery--669DF6.svg?logo=googlebigquery&style=plastic)](https://shields.io)
+    [![Datastream](https://img.shields.io/badge/Datastream--808080.svg?style=plastic)](https://shields.io)
+    [![Embulk](https://img.shields.io/badge/Embulk--EF4319.svg?style=plastic)](https://shields.io)
+    [![Snowflake](https://img.shields.io/badge/Snowflake--29B5E8.svg?logo=snowflake&style=plastic)](https://shields.io)
+    [![dbt](https://img.shields.io/badge/dbt--FF694B.svg?logo=dbt&style=plastic)](https://shields.io)
 
-  <img src="https://img.shields.io/badge/BigQuery--669DF6.svg?logo=googlebigquery&style=plastic">
-  <img src="https://img.shields.io/badge/Datastream--808080.svg?style=plastic">
-  <img src="https://img.shields.io/badge/Embulk--EF4319.svg?style=plastic">
-  <img src="https://img.shields.io/badge/Snowflake--29B5E8.svg?logo=snowflake&style=plastic">
-  <img src="https://img.shields.io/badge/dbt--FF694B.svg?logo=dbt&style=plastic">
-
-  </div>
 - AI/ML
-  <div align="left">
+  - [![DataRobot](https://img.shields.io/badge/DataRobot--808080.svg?style=plastic)](https://shields.io)
+    [![Snowpark_ML](https://img.shields.io/badge/Snowpark_ML--29B5E8.svg?style=plastic)](https://shields.io)
 
-  <img src="https://img.shields.io/badge/DataRobot--808080.svg?style=plastic">
-  <img src="https://img.shields.io/badge/Snowpark_ML--29B5E8.svg?style=plastic">
-
-  </div>
-- Text Editor
-  <div align="left">
-
-  <img src="https://img.shields.io/badge/Neovim--007ACC.svg?logo=neovim&style=plastic">
-  <img src="https://img.shields.io/badge/Vim--019733.svg?logo=vim&style=plastic">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code--0098FF.svg?style=plastic">
-
-  </div>
+- | xt Editor |
+  |----|
+  | [![Neovim](https://img.shields.io/badge/Neovim--007ACC.svg?logo=neovim&style=plastic)](https://shields.io) |
+  | [![Vim](https://img.shields.io/badge/Vim--019733.svg?logo=vim&style=plastic)](https://shields.io) |
+  | [![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code--0098FF.svg?style=plastic)](https://shields.io) |
 
 ## GitHub Stats
 
