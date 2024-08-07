@@ -95,7 +95,7 @@
     [![Embulk](https://img.shields.io/badge/Embulk--EF4319.svg?style=plastic)](https://shields.io)
     [![Snowflake](https://img.shields.io/badge/Snowflake--29B5E8.svg?logo=snowflake&style=plastic)](https://shields.io)
     [![dbt](https://img.shields.io/badge/dbt--FF694B.svg?logo=dbt&style=plastic)](https://shields.io)
-- AI/ML
+- Machine Learning
   - [![DataRobot](https://img.shields.io/badge/DataRobot--808080.svg?style=plastic)](https://shields.io)
     [![Snowpark_ML](https://img.shields.io/badge/Snowpark_ML--29B5E8.svg?style=plastic)](https://shields.io)
 - Text Editor
