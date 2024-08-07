@@ -22,11 +22,11 @@
 
 </div>
 
+## I’m i9wa4, a Data Engineer with a focus on MLOps 👋
+
 [![GitHub](https://img.shields.io/badge/GitHub-i9wa4-181717.svg?logo=github&style=plastic)](https://github.com/i9wa4)
 [![X](https://img.shields.io/badge/X-i9wa4__-000000.svg?logo=x&style=plastic)](https://x.com/i9wa4_)
 [![Bluesky](https://img.shields.io/badge/Bluesky-i9wa4_-0285FF.svg?logo=bluesky&style=plastic)](https://bsky.app/profile/i9wa4.bsky.social)
-
-## I’m i9wa4, a Data Engineer with a focus on MLOps 👋
 
 |         |                                  |
 |--------:|:---------------------------------|
