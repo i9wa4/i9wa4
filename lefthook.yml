@@ -36,7 +36,10 @@
 pre-commit:
   commands:
     quarto-render:
-      glob: "*.{qmd,md}"
+      glob: "*.{qmd}"
       stage_fixed: true
-      run: |
-        . "${PY_VENV_MYENV}"/bin/activate && quarto render && cp ./docs/README.md . && deactivate && git add ./README.md
+      run: . "${PY_VENV_MYENV}"/bin/activate
+        && quarto render
+        && cp ./docs/README.md .
+        && deactivate
+        && git add ./README.md
