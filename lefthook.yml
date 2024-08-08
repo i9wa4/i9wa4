@@ -41,5 +41,5 @@ pre-commit:
         && quarto render
         && cp ./docs/README.md .
         && deactivate
-        && git add {staged_files}
+        && git add ./README.md
       stage_fixed: true
