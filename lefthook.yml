@@ -37,7 +37,6 @@ pre-commit:
   commands:
     quarto-render:
       glob: "index.qmd"
-      staged_files: index.qmd README.md
       stage_fixed: true
       run: . "${PY_VENV_MYENV}"/bin/activate
         && quarto render
