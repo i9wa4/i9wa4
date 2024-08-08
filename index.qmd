@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm i9wa4, a Data Engineer with a focus on MLOps 👋
+## I'm i9wa4, a Data Engineer loving Vim! 👋
 
 [![GitHub](https://img.shields.io/badge/GitHub-i9wa4-181717.svg?logo=github&style=plastic)](https://github.com/i9wa4)
 [![X](https://img.shields.io/badge/X-i9wa4__-000000.svg?logo=x&style=plastic)](https://x.com/i9wa4_)
