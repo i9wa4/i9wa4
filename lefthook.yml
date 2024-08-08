@@ -42,3 +42,4 @@ pre-commit:
         && cp ./docs/README.md .
         && deactivate
         && git add ./README.md
+        && git add {staged_files}
