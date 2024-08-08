@@ -43,3 +43,4 @@ pre-commit:
         && quarto render
         && cp ./docs/README.md .
         && deactivate
+        && git add ./README.md
