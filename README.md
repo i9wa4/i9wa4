@@ -14,14 +14,6 @@
 - ⚡ Fun fact: ...
 -->
 
-<div align="left">
-
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-<img src="https://komarev.com/ghpvc/?username=i9wa4&label=GitHub_Profile_Views"/>
-</a>
-
-</div>
-
 ## I’m i9wa4, a Data Engineer with a focus on MLOps 👋
 
 [![GitHub](https://img.shields.io/badge/GitHub-i9wa4-181717.svg?logo=github&style=plastic)](https://github.com/i9wa4)
@@ -104,6 +96,14 @@
     [![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code--0098FF.svg?style=plastic)](https://shields.io)
 
 ## GitHub Stats
+
+<div align="left">
+
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<img src="https://komarev.com/ghpvc/?username=i9wa4&label=GitHub_Profile_Views"/>
+</a>
+
+</div>
 
 [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
