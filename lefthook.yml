@@ -36,7 +36,7 @@
 pre-commit:
   commands:
     quarto-render:
-      glob: "*.{qmd,md}"
+      glob: "*.{qmd}"
       run: . "${PY_VENV_MYENV}"/bin/activate
         && quarto render
         && cp ./docs/README.md .
