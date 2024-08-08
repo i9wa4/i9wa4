@@ -14,7 +14,7 @@
 - ⚡ Fun fact: ...
 -->
 
-## 1. I’m i9wa4, a Data Engineer loving Vim! 👋
+## I’m i9wa4, a Data Engineer loving Vim! 👋
 
 [![GitHub](https://img.shields.io/badge/GitHub-i9wa4-181717.svg?logo=github&style=plastic)](https://github.com/i9wa4)
 [![X](https://img.shields.io/badge/X-i9wa4__-000000.svg?logo=x&style=plastic)](https://x.com/i9wa4_)
@@ -26,7 +26,7 @@
 |    Blog | <https://i9wa4.github.io/blog>   |
 |  Resume | <https://i9wa4.github.io/resume> |
 
-## 2. Skills
+## Skills
 
 <!-- https://github.com/tandpfun/skill-icons -->
 <!-- https://tech-blog.s-yoshiki.com/entry/150/ -->
@@ -86,7 +86,7 @@
 <!--     [![Datastream](https://img.shields.io/badge/Datastream--808080.svg?style=plastic)](https://shields.io/)                           -->
 <!--     [![Google_Pub/Sub](https://img.shields.io/badge/Google_Pub/Sub--AECBFA.svg?logo=googlepubsub&style=plastic)](https://shields.io/) -->
 
-## 3. GitHub Stats
+## GitHub Stats
 
 <div align="left">
 
