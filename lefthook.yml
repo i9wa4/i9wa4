@@ -35,11 +35,13 @@
 #       runner: go run
 pre-commit:
   commands:
-    quarto-render:
+    01-quarto-render:
       glob: "index.qmd"
-      stage_fixed: true
       run: . "${PY_VENV_MYENV}"/bin/activate
         && quarto render
-        && cp ./docs/README.md .
         && deactivate
+    02-update-readme:
+      stage_fixed: true
+      run:
+        cp ./docs/README.md .
         && git add ./README.md
