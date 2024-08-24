@@ -37,7 +37,8 @@ pre-commit:
   commands:
     01-quarto-render:
       glob: "index.qmd"
-      run: . "${PY_VENV_MYENV}"/bin/activate
+      run:
+        . "${PY_VENV_MYENV}"/bin/activate
         && quarto render
         && deactivate
     02-update-readme:
