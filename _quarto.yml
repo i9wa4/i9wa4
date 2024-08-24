@@ -22,7 +22,7 @@ website:
     left:
       - href: "https://i9wa4.github.io/blog"
         text: "Blog"
-      - href: "https://i9wa4.github.io/slides"
+      - href: "https://i9wa4.github.io/blog/slides"
         text: "Slides"
       - href: "https://i9wa4.github.io/resume"
         text: "Resume"
