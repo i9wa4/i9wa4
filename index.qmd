@@ -5,13 +5,6 @@ about:
   template: marquee
   image-width: 9em
   image-shape: round
-  links:
-    - icon: github
-      text: "i9wa4"
-      href: "https://github.com/i9wa4"
-    - icon: twitter-x
-      text: "i9wa4_"
-      href: "https://x.com/i9wa4_"
 format:
   html:
     output-file: "index"
