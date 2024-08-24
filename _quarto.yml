@@ -18,22 +18,3 @@ website:
     creator: "@i9wa4_"
     site: "@i9wa4_"
   open-graph: true
-  navbar:
-    left:
-      - href: "https://i9wa4.github.io/"
-        text: "Top"
-      - href: "."
-        text: "About"
-      - href: "https://i9wa4.github.io/blog"
-        text: "Blog"
-      - href: "https://i9wa4.github.io/slides"
-        text: "Slides"
-      - href: "https://i9wa4.github.io/resume"
-        text: "Resume"
-      - icon: github
-        href: "https://github.com/i9wa4"
-      - icon: twitter-x
-        href: "https://x.com/i9wa4_"
-    right:
-      - href: "https://quarto.org/"
-        text: "Built with Quarto"
