@@ -8,7 +8,7 @@ theme:
   dark: darkly
 
 website:
-  title: "i9wa4's profile"
+  # title: ""
   site-url: "https://i9wa4.github.io/i9wa4/"
   favicon: "/assets/icon_hhkb2.jpg"
   image: "/assets/icon_hhkb2.jpg"
