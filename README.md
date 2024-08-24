@@ -60,32 +60,6 @@
   [![Vim](https://img.shields.io/badge/Vim-019733.svg?logo=vim&logoColor=white)](https://shields.io)
   [![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0098FF.svg?logoColor=white)](https://shields.io)
 
-<!-- - Database<br>                                                                                                              -->
-<!--     [![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)](https://shields.io/)               -->
-<!--     [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white)](https://shields.io) -->
-<!-- - [![Amazon_Web_Services](https://img.shields.io/badge/Amazon_Web_Services-232F3E.svg?logo=amazonwebservices&logoColor=white)](https://shields.io/)<br> -->
-<!--     [![AWS_Cloud9](https://img.shields.io/badge/AWS_Cloud9-808080.svg?logoColor=white)](https://shields.io/)                                            -->
-<!--     [![AWS_CodeCommit](https://img.shields.io/badge/AWS_CodeCommit-808080.svg?logoColor=white)](https://shields.io/)                                    -->
-<!--     [![AWS_Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900.svg?logo=awslambda&logoColor=white)](https://shields.io/)                             -->
-<!--     [![AWS_Secrets_Manager](https://img.shields.io/badge/AWS_Secrets_Manager-DD344C.svg?logo=awssecretsmanager&logoColor=white)](https://shields.io/)   -->
-<!--     [![AWS_Step_Functions](https://img.shields.io/badge/AWS_Step_Functions-808080.svg?logoColor=white)](https://shields.io/)                            -->
-<!--     [![AWS_Systems_Manager](https://img.shields.io/badge/AWS_Systems_Manager-808080.svg?logoColor=white)](https://shields.io/)                          -->
-<!--     [![Amazon_Athena](https://img.shields.io/badge/Amazon_Athena-808080.svg?logoColor=white)](https://shields.io/)                                      -->
-<!--     [![Amazon_Aurora](https://img.shields.io/badge/Amazon_Aurora-808080.svg?logoColor=white)](https://shields.io/)                                      -->
-<!--     [![Amazon_CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B.svg?logo=amazoncloudwatch&logoColor=white)](https://shields.io/)        -->
-<!--     [![Amazon_EC2](https://img.shields.io/badge/Amazon_EC2-FF9900.svg?logo=amazonec2&logoColor=white)](https://shields.io/)                             -->
-<!--     [![Amazon_ECS](https://img.shields.io/badge/Amazon_ECS-FF9900.svg?logo=amazonecs&logoColor=white)](https://shields.io/)                             -->
-<!--     [![Amazon_RDS](https://img.shields.io/badge/Amazon_RDS-527FFF.svg?logo=amazonrds&logoColor=white)](https://shields.io/)                             -->
-<!--     [![Amazon_S3](https://img.shields.io/badge/Amazon_S3-569A31.svg?logo=amazons3&logoColor=white)](https://shields.io/)                                -->
-<!--     [![Amazon_SageMaker](https://img.shields.io/badge/Amazon_SageMaker-808080.svg?logoColor=white)](https://shields.io/)                                -->
-<!--     [![Amazon_VPC](https://img.shields.io/badge/Amazon_VPC-808080.svg?logoColor=white)](https://shields.io/)                                            -->
-<!-- - [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4.svg?logo=googlecloud&logoColor=white)](https://shields.io/)<br>    -->
-<!--     [![BigQuery](https://img.shields.io/badge/BigQuery-669DF6.svg?logo=googlebigquery&logoColor=white)](https://shields.io/)           -->
-<!--     [![Cloud_Functions](https://img.shields.io/badge/Cloud_Functions-808080.svg?logoColor=white)](https://shields.io/)                 -->
-<!--     [![Compute_Engine](https://img.shields.io/badge/Compute_Engine-808080.svg?logoColor=white)](https://shields.io/)                   -->
-<!--     [![Datastream](https://img.shields.io/badge/Datastream-808080.svg?logoColor=white)](https://shields.io/)                           -->
-<!--     [![Google_Pub/Sub](https://img.shields.io/badge/Google_Pub/Sub-AECBFA.svg?logo=googlepubsub&logoColor=white)](https://shields.io/) -->
-
 ## GitHub Stats
 
 <div align="left">
