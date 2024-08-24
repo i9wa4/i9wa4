@@ -22,8 +22,7 @@
 
 |         |                                  |
 |--------:|:---------------------------------|
-| Profile | <https://i9wa4.github.io/i9wa4>  |
-|    Blog | <https://i9wa4.github.io/blog>   |
+| My page | <https://i9wa4.github.io>        |
 |  Resume | <https://i9wa4.github.io/resume> |
 
 ## Skills
