@@ -20,10 +20,8 @@
 [![X](https://img.shields.io/badge/X_(Twitter)-000000.svg?logo=x&logoColor=white)](https://x.com/i9wa4_)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF.svg?logo=bluesky&logoColor=white)](https://bsky.app/profile/i9wa4.bsky.social)
 
-|         |                                  |
-|--------:|:---------------------------------|
-| My page | <https://i9wa4.github.io>        |
-|  Resume | <https://i9wa4.github.io/resume> |
+- [My page](https://i9wa4.github.io)
+- [Resume](https://i9wa4.github.io/resume)
 
 ## Skills
 
