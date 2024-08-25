@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "About me - i9wa4"
 image: "./assets/icon_hhkb2.jpg"
 about:
   template: marquee
