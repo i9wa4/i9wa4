@@ -1,6 +1,6 @@
 ---
 title: "About me - i9wa4"
-image: "/assets/icon_hhkb2.jpg"
+image: "./assets/icon_hhkb2.jpg"
 about:
   template: marquee
   image-width: 9em

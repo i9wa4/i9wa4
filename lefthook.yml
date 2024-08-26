@@ -42,7 +42,7 @@ pre-commit:
         && quarto render
         && deactivate
     02-update-readme:
-      stage_fixed: true
-      run:
-        cp ./docs/README.md .
-        && git add ./README.md
+      run: cp ./docs/README.md .
+    03-add-readme:
+      # stage_fixed: true
+      run: git add ./README.md
