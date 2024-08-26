@@ -44,5 +44,5 @@ pre-commit:
     02-update-readme:
       run: cp ./docs/README.md .
     03-add-readme:
-      # stage_fixed: true
+      stage_fixed: true
       run: git add ./README.md
