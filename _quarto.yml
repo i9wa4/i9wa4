@@ -9,10 +9,3 @@ theme:
 website:
   site-url: "https://i9wa4.github.io/i9wa4/"
   favicon: "/assets/icon_hhkb2.jpg"
-  image: "/assets/icon_hhkb2.jpg"
-  search: false
-  twitter-card:
-    card-style: summary
-    creator: "@i9wa4_"
-    site: "@i9wa4_"
-  open-graph: true

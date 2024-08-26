@@ -1,6 +1,6 @@
 ---
 title: "About me - i9wa4"
-# image: "/assets/icon_hhkb2.jpg"
+image: "/assets/icon_hhkb2.jpg"
 about:
   template: marquee
   image-width: 9em
@@ -9,27 +9,11 @@ format:
   html:
     output-file: "index"
     output-ext: "html"
-    standalone: true
   gfm:
     output-file: "README"
     output-ext: "md"
 format-links: false
 ---
-
-<!--
-**i9wa4/i9wa4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## I'm i9wa4, a Data Engineer loving Vim! 👋
 
@@ -42,8 +26,6 @@ Here are some ideas to get you started:
 
 ## Skills
 
-<!-- https://github.com/tandpfun/skill-icons -->
-<!-- https://tech-blog.s-yoshiki.com/entry/150/ -->
 <!-- https://simpleicons.org/ -->
 
 - Language<br>
@@ -106,3 +88,18 @@ Here are some ideas to get you started:
 <!--     <img src="https://github-profile-trophy.vercel.app/?username=i9wa4&theme=flat&no-bg=false&no-frame=true"/> -->
 <!--   </a>                                                                                                         -->
 <!-- </div>                                                                                                         -->
+
+<!--
+**i9wa4/i9wa4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
