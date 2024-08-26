@@ -15,6 +15,9 @@ jobs:
       TZ: 'Asia/Tokyo'
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env: # default use ${{ secrets.SUMMARY_GITHUB_TOKEN }}, you should replace with your personal access token
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
