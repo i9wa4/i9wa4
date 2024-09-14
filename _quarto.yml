@@ -2,6 +2,7 @@ project:
   type: website
   output-dir: "docs"
 
+date-format: iso
 theme:
   light: flatly
   dark: darkly
