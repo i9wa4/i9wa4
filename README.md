@@ -32,7 +32,6 @@
   [![C](https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=white)](https://shields.io/)
   [![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)](https://shields.io/)
   [![SQL](https://img.shields.io/badge/SQL-808080.svg?logoColor=white)](https://shields.io/)
-  [![Shell_Script](https://img.shields.io/badge/Shell_Script-4EAA25.svg?logo=gnubash&logoColor=white)](https://shields.io/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white)](https://shields.io/)
 - Cloud Computing Service<br>
   [![Amazon_Web_Services](https://img.shields.io/badge/Amazon_Web_Services-232F3E.svg?logo=amazonwebservices&logoColor=white)](https://shields.io/)
