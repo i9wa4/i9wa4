@@ -44,10 +44,10 @@ pre-commit:
         && deactivate
     02-update-readme:
       priority: 2
-      stage_fixed: true
       run: cp ./docs/README.md .
-    # 03-add-readme:
-    #   run: git add ./README.md
-    03-sleep:
+    03-add-readme:
       priority: 3
+      run: git add ./README.md
+    04-sleep:
+      priority: 4
       run: sleep 0.1
