@@ -42,9 +42,12 @@ pre-commit:
         && quarto render
         && deactivate
     02-update-readme:
+      glob: "index.qmd"
       run: cp ./docs/README.md .
     03-add-readme:
+      glob: "index.qmd"
       stage_fixed: true
       run: git add ./README.md
     04-sleep:
+      glob: "index.qmd"
       run: sleep 0.1
