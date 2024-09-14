@@ -66,9 +66,12 @@ format-links: false
   </a>
 </div>
 
-[![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/i9wa4/i9wa4/main/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<div align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=i9wa4&hide_border=true&theme=transparent&include_all_commits=true&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i9wa4&hide_border=true&theme=transparent&include_all_commits=true&layout=compact&langs_count=10&hide=HTML,JavaScript,Jupyter%20Notebook,CSS"/>
+  </a>
+</div>
 
 <!-- <div align="left">                                                                                                                                                                                                                                       -->
 <!--   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">                                                                                                                                                                                  -->
@@ -77,13 +80,6 @@ format-links: false
 <!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=i9wa4&theme=transparent"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=i9wa4&theme=transparent&utcOffset=9"/>       -->
 <!--   </a>                                                                                                                                                                                                                                                   -->
 <!-- </div>                                                                                                                                                                                                                                                   -->
-
-<!-- <div align="left">                                                                                                                                                             -->
-<!--   <a href="https://github.com/anuraghazra/github-readme-stats">                                                                                                                -->
-<!--     <img src="https://github-readme-stats.vercel.app/api?username=i9wa4&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true"/>                         -->
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i9wa4&langs_count=8&layout=compact&hide_border=true&theme=transparent&include_all_commits=true"/> -->
-<!--   </a>                                                                                                                                                                         -->
-<!-- </div>                                                                                                                                                                         -->
 
 <!-- <div align="left">                                                                                             -->
 <!--   <a href="https://github.com/ryo-ma/github-profile-trophy">                                                   -->
