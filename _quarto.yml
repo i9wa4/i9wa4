@@ -6,6 +6,3 @@ date-format: iso
 theme:
   light: flatly
   dark: darkly
-
-website:
-  favicon: "https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/main/assets/common/icon_hhkb2.jpg"
