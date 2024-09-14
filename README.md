@@ -11,7 +11,7 @@
 [![Bluesky](https://img.shields.io/badge/Bluesky-i9wa4-808080.svg?logo=bluesky&logoColor=white&labelColor=0285FF)](https://bsky.app/profile/i9wa4.bsky.social)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=&logoColor=white.png)](https://www.linkedin.com/in/daiki-mawatari/)
 
-- [My page](https://i9wa4.github.io)
+- [My Page](https://i9wa4.github.io)
 - [Resume](https://i9wa4.github.io/resume)
 
 ## Skills
@@ -62,18 +62,6 @@
 
 </div>
 
-<!-- <div align="left">                                                                                                                                                                                                                                       -->
-<!--   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">                                                                                                                                                                                  -->
-<!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i9wa4&theme=transparent"/>                                                                                                                               -->
-<!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=i9wa4&theme=transparent"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=i9wa4&theme=transparent"/> -->
-<!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=i9wa4&theme=transparent"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=i9wa4&theme=transparent&utcOffset=9"/>       -->
-<!--   </a>                                                                                                                                                                                                                                                   -->
-<!-- </div>                                                                                                                                                                                                                                                   -->
-<!-- <div align="left">                                                                                             -->
-<!--   <a href="https://github.com/ryo-ma/github-profile-trophy">                                                   -->
-<!--     <img src="https://github-profile-trophy.vercel.app/?username=i9wa4&theme=flat&no-bg=false&no-frame=true"/> -->
-<!--   </a>                                                                                                         -->
-<!-- </div>                                                                                                         -->
 <!--
 **i9wa4/i9wa4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 &#10;Here are some ideas to get you started:
