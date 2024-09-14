@@ -36,18 +36,18 @@
 pre-commit:
   commands:
     01-quarto-render:
+      priority: 1
       glob: "index.qmd"
       run:
         . "${PY_VENV_MYENV}"/bin/activate
         && quarto render
         && deactivate
     02-update-readme:
-      glob: "index.qmd"
-      run: cp ./docs/README.md .
-    03-add-readme:
-      glob: "index.qmd"
+      priority: 2
       stage_fixed: true
-      run: git add ./README.md
-    04-sleep:
-      glob: "index.qmd"
-      run: sleep 0.1
+      run: cp ./docs/README.md .
+    # 03-add-readme:
+    #   run: git add ./README.md
+    # 03-sleep:
+    #   priority: 3
+    #   run: sleep 0.1
