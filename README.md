@@ -62,18 +62,6 @@
 
 </div>
 
-<!-- <div align="left">                                                                                                                                                                                                                                       -->
-<!--   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">                                                                                                                                                                                  -->
-<!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i9wa4&theme=transparent"/>                                                                                                                               -->
-<!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=i9wa4&theme=transparent"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=i9wa4&theme=transparent"/> -->
-<!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=i9wa4&theme=transparent"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=i9wa4&theme=transparent&utcOffset=9"/>       -->
-<!--   </a>                                                                                                                                                                                                                                                   -->
-<!-- </div>                                                                                                                                                                                                                                                   -->
-<!-- <div align="left">                                                                                             -->
-<!--   <a href="https://github.com/ryo-ma/github-profile-trophy">                                                   -->
-<!--     <img src="https://github-profile-trophy.vercel.app/?username=i9wa4&theme=flat&no-bg=false&no-frame=true"/> -->
-<!--   </a>                                                                                                         -->
-<!-- </div>                                                                                                         -->
 <!--
 **i9wa4/i9wa4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 &#10;Here are some ideas to get you started:

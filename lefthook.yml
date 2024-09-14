@@ -48,6 +48,6 @@ pre-commit:
       run: cp ./docs/README.md .
     # 03-add-readme:
     #   run: git add ./README.md
-    # 03-sleep:
-    #   priority: 3
-    #   run: sleep 0.1
+    03-sleep:
+      priority: 3
+      run: sleep 0.1
