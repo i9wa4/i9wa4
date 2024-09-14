@@ -50,4 +50,4 @@ pre-commit:
       run: git add ./README.md
     04-sleep:
       priority: 4
-      run: sleep 0.1
+      run: sleep 1
