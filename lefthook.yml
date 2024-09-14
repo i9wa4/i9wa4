@@ -46,3 +46,5 @@ pre-commit:
     03-add-readme:
       stage_fixed: true
       run: git add ./README.md
+    04-sleep:
+      run: sleep 0.1
