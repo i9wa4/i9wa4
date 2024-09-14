@@ -37,7 +37,7 @@ pre-commit:
   commands:
     01-quarto-render:
       priority: 1
-      glob: "index.qmd"
+      # glob: "index.qmd"
       run:
         . "${PY_VENV_MYENV}"/bin/activate
         && quarto render
