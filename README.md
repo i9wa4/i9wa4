@@ -69,7 +69,7 @@
 <div align="left">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=i9wa4&hide_border=true&theme=transparent&include_all_commits=true&show_icons=true&number_format=long"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i9wa4&hide_border=true&theme=transparent&include_all_commits=true&layout=compact&langs_count=8&hide=HTML,JavaScript,Jupyter%20Notebook,CSS"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i9wa4&hide_border=true&theme=transparent&include_all_commits=true&layout=donut&langs_count=10&hide=HTML,JavaScript,Jupyter%20Notebook,CSS"/>
 </a>
 
 </div>
