@@ -44,4 +44,3 @@ pre-commit:
         && deactivate
         && cp ./docs/README.md .
         && git add ./README.md
-        # && sleep 1
