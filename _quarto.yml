@@ -4,5 +4,5 @@ project:
 
 date-format: iso
 theme:
-  light: default
-  dark: superhero
+  light: flatly
+  dark: darkly
