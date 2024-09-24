@@ -1,6 +1,7 @@
 ---
 title: "About me - i9wa4"
-image: "https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/main/assets/common/icon_hhkb2.jpg"
+# image: "https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/main/assets/common/icon_hhkb2.jpg"
+image: "https://github.com/i9wa4.png"
 about:
   template: marquee
   image-width: 9em
