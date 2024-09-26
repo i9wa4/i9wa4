@@ -1,4 +1,4 @@
-# About me - uma-chan
+# About me
 
 
 <!--
