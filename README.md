@@ -16,7 +16,7 @@
 <!-- <https://simpleicons.org/> -->
 <!-- <https://github.com/HariSekhon/Knowledge-Base/blob/main/documentation-as-code.md#badges--icons> -->
 
-## I’m uma-chan, a Data Engineer loving Vim! 👋
+## I’m uma-chan, a Data Scientist loving Vim! 👋
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/i9wa4)
 [![X](https://img.shields.io/badge/X_(Twitter)-000000.svg?logo=x&logoColor=white)](https://x.com/i9wa4_)
