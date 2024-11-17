@@ -66,10 +66,12 @@ My Page: <https://i9wa4.github.io>
 
 </div>
 
-<div align="left">
+<!-- <div align="left">                                                                                                                                                                                                                                                                                                                                                                              -->
+<!--   <a href="https://github.com/anuraghazra/github-readme-stats">                                                                                                                                                                                                                                                                                                                                 -->
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=i9wa4&include_all_commits=true&hide_border=true&theme=transparent&hide=contribs&show_icons=true&number_format=long"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i9wa4&include_all_commits=true&hide_border=true&theme=transparent&layout=compact&hide=HTML,JavaScript,Jupyter%20Notebook,CSS"/> -->
+<!--   </a>                                                                                                                                                                                                                                                                                                                                                                                          -->
+<!-- </div>                                                                                                                                                                                                                                                                                                                                                                                          -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=i9wa4&include_all_commits=true&hide_border=true&theme=transparent&hide=contribs&show_icons=true&number_format=long"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i9wa4&include_all_commits=true&hide_border=true&theme=transparent&layout=compact&hide=HTML,JavaScript,Jupyter%20Notebook,CSS"/>
-</a>
-
-</div>
+[![](https://raw.githubusercontent.com/i9wa4/github-profile-summary/main/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/i9wa4/github-profile-summary/main/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/i9wa4/github-profile-summary/main/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/i9wa4/github-profile-summary/main/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/i9wa4/github-profile-summary/main/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
