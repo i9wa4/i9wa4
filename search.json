@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "About me",
     "section": "",
-    "text": "My Page: https://i9wa4.github.io"
+    "text": "My Page\nhttps://i9wa4.github.io\n\n\nResume\nhttps://i9wa4.github.io/resume"
   },
   {
     "objectID": "index.html#im-uma-chan-an-mlopsdata-engineer-loving-vim",
     "href": "index.html#im-uma-chan-an-mlopsdata-engineer-loving-vim",
     "title": "About me",
     "section": "",
-    "text": "My Page: https://i9wa4.github.io"
+    "text": "My Page\nhttps://i9wa4.github.io\n\n\nResume\nhttps://i9wa4.github.io/resume"
   },
   {
     "objectID": "index.html#skills",
     "href": "index.html#skills",
     "title": "About me",
     "section": "Skills",
-    "text": "Skills\n\nLanguage    \nCloud Computing Service  \nData Engineering     \nMachine Learning    \nIaC (Infrastructure as Code)    \nText Editor"
+    "text": "Skills\n\nLanguage    \nCloud Computing Service  \nData Engineering      \nMachine Learning    \nIaC (Infrastructure as Code)    \nText Editor"
   },
   {
     "objectID": "index.html#github-stats",
