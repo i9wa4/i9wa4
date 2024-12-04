@@ -13,7 +13,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <!-- <https://simpleicons.org/> -->
+
 <!-- <https://github.com/HariSekhon/Knowledge-Base/blob/main/documentation-as-code.md#badges--icons> -->
 
 ## I’m uma-chan, an MLOps/Data Engineer loving Vim! 👋
@@ -25,7 +27,10 @@
 [![Zenn](https://img.shields.io/badge/Zenn-3EA8FF.svg?logo=zenn&logoColor=white)](https://zenn.dev/i9wa4)
 [![Qiita](https://img.shields.io/badge/Qiita-55C500.svg?logo=qiita&logoColor=white)](https://qiita.com/i9wa4)
 
-My Page: <https://i9wa4.github.io>
+|         |                                  |
+|--------:|:---------------------------------|
+| My Page | <https://i9wa4.github.io>        |
+|  Resume | <https://i9wa4.github.io/resume> |
 
 ## Skills
 
@@ -39,6 +44,7 @@ My Page: <https://i9wa4.github.io>
   [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4.svg?logo=googlecloud&logoColor=white)](https://shields.io/)
 - Data Engineering<br>
   [![BigQuery](https://img.shields.io/badge/BigQuery-669DF6.svg?logo=googlebigquery&logoColor=white)](https://shields.io)
+  [![Databricks](https://img.shields.io/badge/Databricks-FF3621.svg?logo=databricks&logoColor=white)](https://shields.io/)
   [![Datastream](https://img.shields.io/badge/Datastream-185ABC.svg?logo=googlecloud&logoColor=white)](https://shields.io)
   [![Embulk](https://img.shields.io/badge/Embulk-EF4319.svg?logoColor=white)](https://shields.io)
   [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8.svg?logo=snowflake&logoColor=white)](https://shields.io)
@@ -69,10 +75,15 @@ My Page: <https://i9wa4.github.io>
 </div>
 
 <!-- <div align="left">                                                                                                                                                                                                                                                                                                                                                                              -->
+
 <!--   <a href="https://github.com/anuraghazra/github-readme-stats">                                                                                                                                                                                                                                                                                                                                 -->
+
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=i9wa4&include_all_commits=true&hide_border=true&theme=transparent&hide=contribs&show_icons=true&number_format=long"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i9wa4&include_all_commits=true&hide_border=true&theme=transparent&layout=compact&hide=HTML,JavaScript,Jupyter%20Notebook,CSS"/> -->
+
 <!--   </a>                                                                                                                                                                                                                                                                                                                                                                                          -->
+
 <!-- </div>                                                                                                                                                                                                                                                                                                                                                                                          -->
+
 <!-- [![](https://raw.githubusercontent.com/i9wa4/github-profile-summary/main/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 
 [![](https://raw.githubusercontent.com/i9wa4/github-profile-summary/main/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/i9wa4/github-profile-summary/main/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
