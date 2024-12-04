@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 [![Zenn](https://img.shields.io/badge/Zenn-3EA8FF.svg?logo=zenn&logoColor=white)](https://zenn.dev/i9wa4)
 [![Qiita](https://img.shields.io/badge/Qiita-55C500.svg?logo=qiita&logoColor=white)](https://qiita.com/i9wa4)
 
-- [My Page](https://i9wa4.github.io)
-- [Blog](https://i9wa4.github.io/blog)
-- [Resume](https://i9wa4.github.io/resume)
+- [my page](https://i9wa4.github.io)
+
+- [resume](https://i9wa4.github.io/resume)
 
 ## Skills
 
