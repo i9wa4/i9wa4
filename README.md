@@ -1,4 +1,4 @@
-# About me
+# About me - uma-chan
 
 
 <!--
@@ -27,9 +27,10 @@
 <!-- [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF.svg?logo=bluesky&logoColor=white)](https://bsky.app/profile/i9wa4.bsky.social) -->
 <!-- [![Qiita](https://img.shields.io/badge/Qiita-55C500.svg?logo=qiita&logoColor=white)](https://qiita.com/i9wa4) -->
 
-- [my page](https://i9wa4.github.io)
-
-- [resume](https://i9wa4.github.io/resume)
+|         |                                  |
+|--------:|:---------------------------------|
+| my page | <https://i9wa4.github.io>        |
+|  resume | <https://i9wa4.github.io/resume> |
 
 ## Skills
 
