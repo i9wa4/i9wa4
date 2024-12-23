@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <https://simpleicons.org/> -->
+<!-- <https://simpleicons.org> -->
 <!-- <https://github.com/HariSekhon/Knowledge-Base/blob/main/documentation-as-code.md#badges--icons> -->
 
 ## I'm uma-chan, an MLOps/Data Engineer loving Vim! 👋
@@ -39,8 +39,6 @@ Here are some ideas to get you started:
 [![X](https://img.shields.io/badge/X_(Twitter)-000000.svg?logo=x&logoColor=white)](https://x.com/i9wa4_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=&logoColor=white)](https://www.linkedin.com/in/daikm/)
 [![Zenn](https://img.shields.io/badge/Zenn-3EA8FF.svg?logo=zenn&logoColor=white)](https://zenn.dev/i9wa4)
-<!-- [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF.svg?logo=bluesky&logoColor=white)](https://bsky.app/profile/i9wa4.bsky.social) -->
-<!-- [![Qiita](https://img.shields.io/badge/Qiita-55C500.svg?logo=qiita&logoColor=white)](https://qiita.com/i9wa4) -->
 
 |         |                                  |
 | ---:    | :---                             |
@@ -50,26 +48,26 @@ Here are some ideas to get you started:
 ## Skills
 
 - Language<br>
-    [![C](https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=white)](https://shields.io/)
-    [![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)](https://shields.io/)
-    [![SQL](https://img.shields.io/badge/SQL-808080.svg?logoColor=white)](https://shields.io/)
-    [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white)](https://shields.io/)
+    [![C](https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=white)](https://shields.io)
+    [![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)](https://shields.io)
+    [![SQL](https://img.shields.io/badge/SQL-808080.svg?logoColor=white)](https://shields.io)
+    [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white)](https://shields.io)
 - Cloud Computing Service<br>
-    [![Amazon_Web_Services](https://img.shields.io/badge/Amazon_Web_Services-232F3E.svg?logo=amazonwebservices&logoColor=white)](https://shields.io/)
-    [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4.svg?logo=googlecloud&logoColor=white)](https://shields.io/)
+    [![Amazon_Web_Services](https://img.shields.io/badge/Amazon_Web_Services-232F3E.svg?logo=amazonwebservices&logoColor=white)](https://shields.io)
+    [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4.svg?logo=googlecloud&logoColor=white)](https://shields.io)
 - BI (Business Intelligence) Dashboard<br>
-    [![Databricks](https://img.shields.io/badge/Databricks-FF3621.svg?logo=databricks&logoColor=white)](https://shields.io/)
+    [![Databricks](https://img.shields.io/badge/Databricks-FF3621.svg?logo=databricks&logoColor=white)](https://shields.io)
 - Data Engineering<br>
     [![BigQuery](https://img.shields.io/badge/BigQuery-669DF6.svg?logo=googlebigquery&logoColor=white)](https://shields.io)
-    [![Databricks](https://img.shields.io/badge/Databricks-FF3621.svg?logo=databricks&logoColor=white)](https://shields.io/)
+    [![Databricks](https://img.shields.io/badge/Databricks-FF3621.svg?logo=databricks&logoColor=white)](https://shields.io)
     [![Datastream](https://img.shields.io/badge/Datastream-185ABC.svg?logo=googlecloud&logoColor=white)](https://shields.io)
     [![Embulk](https://img.shields.io/badge/Embulk-EF4319.svg?logoColor=white)](https://shields.io)
     [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8.svg?logo=snowflake&logoColor=white)](https://shields.io)
     [![TROCCO](https://img.shields.io/badge/TROCCO-808080.svg?logoColor=white)](https://shields.io)
     [![dbt](https://img.shields.io/badge/dbt-FF694B.svg?logo=dbt&logoColor=white)](https://shields.io)
 - Machine Learning<br>
-    [![Amazon_SageMaker](https://img.shields.io/badge/Amazon_SageMaker-2D8F7A.svg?logo=amazonwebservices&logoColor=white)](https://shields.io/)
-    [![Databricks](https://img.shields.io/badge/Databricks-FF3621.svg?logo=databricks&logoColor=white)](https://shields.io/)
+    [![Amazon_SageMaker](https://img.shields.io/badge/Amazon_SageMaker-2D8F7A.svg?logo=amazonwebservices&logoColor=white)](https://shields.io)
+    [![Databricks](https://img.shields.io/badge/Databricks-FF3621.svg?logo=databricks&logoColor=white)](https://shields.io)
     [![DataRobot](https://img.shields.io/badge/DataRobot-00B2FF.svg?logoColor=white)](https://shields.io)
     [![Snowpark_ML](https://img.shields.io/badge/Snowpark_ML-29B5E8.svg?logo=snowflake&logoColor=white)](https://shields.io)
 - IaC (Infrastructure as Code)<br>
@@ -90,11 +88,13 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<!-- <div align="left">                                                                                                                                                                                                                                                                                                                                                                              -->
-<!--   <a href="https://github.com/anuraghazra/github-readme-stats">                                                                                                                                                                                                                                                                                                                                 -->
-<!--     <img src="https://github-readme-stats.vercel.app/api?username=i9wa4&include_all_commits=true&hide_border=true&theme=transparent&hide=contribs&show_icons=true&number_format=long"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i9wa4&include_all_commits=true&hide_border=true&theme=transparent&layout=compact&hide=HTML,JavaScript,Jupyter%20Notebook,CSS"/> -->
-<!--   </a>                                                                                                                                                                                                                                                                                                                                                                                          -->
-<!-- </div>                                                                                                                                                                                                                                                                                                                                                                                          -->
+<!--
+<div align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=i9wa4&include_all_commits=true&hide_border=true&theme=transparent&hide=contribs&show_icons=true&number_format=long"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i9wa4&include_all_commits=true&hide_border=true&theme=transparent&layout=compact&hide=HTML,JavaScript,Jupyter%20Notebook,CSS"/>
+  </a>
+</div>
+-->
 
 <!-- [![](https://raw.githubusercontent.com/i9wa4/github-profile-summary/main/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 [![](https://raw.githubusercontent.com/i9wa4/github-profile-summary/main/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/i9wa4/github-profile-summary/main/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
