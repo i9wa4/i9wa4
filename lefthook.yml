@@ -45,3 +45,4 @@ pre-commit:
       run: |
         set -e
         quarto render
+        git add {staged_files}
