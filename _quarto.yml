@@ -1,10 +1,7 @@
 project:
   type: website
-  output-dir: "."
+  output-dir: "out"
 
 theme:
   light: flatly
   dark: darkly
-
-website:
-  search: false

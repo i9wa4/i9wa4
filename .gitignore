@@ -1,4 +1,2 @@
 /.quarto/
-/site_libs/
-index.html
-search.json
+/out/

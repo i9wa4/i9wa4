@@ -44,5 +44,6 @@ post-commit:
       run: |
         set -e
         quarto render
+        cp ./out/README.md .
         git add ./README.md
         git commit -m "lefthook: quarto render"
