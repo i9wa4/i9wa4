@@ -34,12 +34,14 @@
 #     "any.go":
 #       runner: go run
 pre-commit:
+  piped: true
   commands:
     01-quarto-render:
       priority: 1
-      glob: "index.qmd"
-      run:
+      glob:
+        - "index.qmd"
+        - "README.md"
+      stage_fixed: true
+      run: |
+        set -e
         quarto render
-        && cp ./out/README.md .
-        && git add ./README.md
-        && sleep 0.5

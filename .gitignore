@@ -1,2 +1,3 @@
 /.quarto/
-/out/
+/out/*
+!/out/README.md

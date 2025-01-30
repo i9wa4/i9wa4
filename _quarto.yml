@@ -5,3 +5,6 @@ project:
 theme:
   light: flatly
   dark: darkly
+
+website:
+  search: false
