@@ -33,18 +33,16 @@
 #       runner: node
 #     "any.go":
 #       runner: go run
-pre-commit:
+post-commit:
   piped: true
   commands:
     01-quarto-render:
       priority: 1
       glob:
         - "index.qmd"
-        - "README.md"
-      stage_fixed: true
+      stage_fixed: false
       run: |
         set -e
         quarto render
-        sleep 0.5
         git add ./README.md
-        sleep 0.5
+        git commit -m "lefthook: quarto render"
