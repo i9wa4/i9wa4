@@ -45,4 +45,5 @@ pre-commit:
       run: |
         set -e
         quarto render
+        sleep 0.5
         git add ./README.md
