@@ -1,3 +1,4 @@
 /.quarto/
-/out/*
-!/out/README.md
+/site_libs/
+index.html
+search.json

@@ -8,10 +8,8 @@ about:
 format:
   html:
     output-file: "index"
-    output-ext: "html"
   gfm:
     output-file: "README"
-    output-ext: "md"
 format-links: false
 ---
 

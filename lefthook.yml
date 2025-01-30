@@ -45,6 +45,3 @@ pre-commit:
       run: |
         set -e
         quarto render
-        cp ./out/README.md .
-        git add ./README.md
-
