@@ -46,4 +46,4 @@ post-commit:
         quarto render
         cp ./out/README.md .
         git add ./README.md
-        git commit -m "lefthook: quarto render"
+        git commit -m "[lefthook] rendered index.qmd in README.md"
