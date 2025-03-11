@@ -18,7 +18,7 @@
 
 <!-- <https://github.com/HariSekhon/Knowledge-Base/blob/main/documentation-as-code.md#badges--icons> -->
 
-## uma-chan, Data Engineer, MLOps Engineer and Vim enthusiast! 👋
+## uma-chan, Data Engineer, MLOps Engineer and Vim enthusiast!
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/i9wa4)
 [![X](https://img.shields.io/badge/X_(Twitter)-000000.svg?logo=x&logoColor=white)](https://x.com/i9wa4_)
