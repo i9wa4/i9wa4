@@ -43,6 +43,7 @@ post-commit:
       stage_fixed: false
       run: |
         set -e
+        . "${PY_VENV_MYENV}"/bin/activate
         quarto render
         cp ./out/README.md .
         git add ./README.md
