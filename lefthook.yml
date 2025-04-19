@@ -45,6 +45,6 @@ post-commit:
         set -e
         . "${PY_VENV_MYENV}"/bin/activate
         quarto render
-        cp ./out/README.md .
+        cp ./_site/README.md .
         git add ./README.md
         git commit -m "[lefthook] rendered index.qmd in README.md" || exit 0
