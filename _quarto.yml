@@ -7,7 +7,3 @@ theme:
   # https://quarto.org/docs/output-formats/html-themes.html
   light: yeti
   dark: superhero
-
-website:
-  title: "About me - uma-chan"
-  site-url: "https://i9wa4.github.io/about"
