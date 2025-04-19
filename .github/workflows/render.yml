@@ -15,7 +15,7 @@ concurrency:
 
 jobs:
   render:
-    runs-on: ubuntu-24.04-arm64
+    runs-on: ubuntu-24.04-arm
     permissions:
       contents: write
     env:
