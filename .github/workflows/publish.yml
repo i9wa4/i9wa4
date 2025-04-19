@@ -1,11 +1,11 @@
-name: Quarto Publish
+name: Publish Quarto Project
 on:
   workflow_dispatch:
   push:
     branches: main
 jobs:
   build-deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04-amd64
     permissions:
       contents: write
     env:
