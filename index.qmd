@@ -1,12 +1,17 @@
 ---
 title: "About me - uma-chan"
 image: "https://github.com/i9wa4.png"
-author: "uma-chan"
 date-modified: last-modified
 about:
   template: marquee
   image-width: 9em
   image-shape: round
+format:
+  html:
+    output-file: "index"
+  gfm:
+    output-file: "README"
+format-links: false
 ---
 
 <!--
