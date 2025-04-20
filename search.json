@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About me - uma-chan",
+    "section": "",
+    "text": "my page || resume"
+  },
+  {
+    "objectID": "index.html#uma-chan-data-engineer-mlops-engineer-and-vim-enthusiast",
+    "href": "index.html#uma-chan-data-engineer-mlops-engineer-and-vim-enthusiast",
+    "title": "About me - uma-chan",
+    "section": "",
+    "text": "my page || resume"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "About me - uma-chan",
+    "section": "Skills",
+    "text": "Skills\n\nIaC (Infrastructure as Code)    \nData Engineering        \nBI (Business Intelligence) Dashboard \nMachine Learning    \nOS    \nLanguage     \nCloud Computing Service  \nDatabase  \nText Editor   \nAI-Powered Development Tools"
+  },
+  {
+    "objectID": "index.html#github-stats",
+    "href": "index.html#github-stats",
+    "title": "About me - uma-chan",
+    "section": "GitHub Stats",
+    "text": "GitHub Stats"
+  }
+]
