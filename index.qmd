@@ -82,11 +82,17 @@ Here are some ideas to get you started:
 - Database<br>
     [![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)](https://shields.io)
     [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white)](https://shields.io)
+- Terminal<br>
+    [![Alacritty](https://img.shields.io/badge/Alacritty-F46D01.svg?logo=alacritty&logoColor=white)](https://shields.io)
+    [![Ghostty](https://img.shields.io/badge/Ghostty-808080.svg?logoColor=white)](https://shields.io)
+    [![Zsh](https://img.shields.io/badge/Zsh-F15A24.svg?logo=zsh&logoColor=white)](https://shields.io)
+    [![tmux](https://img.shields.io/badge/tmux-1BB91F.svg?logo=tmux&logoColor=white)](https://shields.io)
 - Text Editor<br>
     [![Neovim](https://img.shields.io/badge/Neovim-57A143.svg?logo=neovim&logoColor=white)](https://shields.io)
     [![Vim](https://img.shields.io/badge/Vim-019733.svg?logo=vim&logoColor=white)](https://shields.io)
     [![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0098FF.svg?logoColor=white)](https://shields.io)
 - AI-Powered Development Tools<br>
+    [![Aider](https://img.shields.io/badge/Aider-808080.svg?logoColor=white)](https://shields.io)
     [![Cursor](https://img.shields.io/badge/Cursor-808080.svg?logoColor=white)](https://shields.io)
     [![Devin](https://img.shields.io/badge/Devin-808080.svg?logoColor=white)](https://shields.io)
     [![MCP](https://img.shields.io/badge/MCP-808080.svg?logoColor=white)](https://shields.io)
