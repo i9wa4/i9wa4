@@ -1,7 +1,6 @@
 ---
 title: "About me - uma-chan"
 image: "https://github.com/i9wa4.png"
-date-modified: last-modified
 about:
   template: marquee
   image-width: 9em
