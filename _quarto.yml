@@ -13,7 +13,6 @@ website:
   bread-crumbs: true
   site-url: "https://i9wa4.github.io/i9wa4"
   search: false
-  # navbar: true
   sidebar:
     style: floating
     contents:
@@ -21,8 +20,6 @@ website:
         contents:
           - href: "https://i9wa4.github.io"
             text: "My Page"
-          - href: "https://i9wa4.github.io/resume"
-            text: "Resume"
       - text: "---"
       - section: "External Links"
         contents:
