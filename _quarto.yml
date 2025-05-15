@@ -6,10 +6,7 @@ date-format: iso
 theme:
   # https://quarto.org/docs/output-formats/html-themes.html
   light: flatly
-  # dark: darkly
-
-filters:
-- auto-dark
+  dark: darkly
 
 website:
   title: "About me - uma-chan"
@@ -55,4 +52,4 @@ format:
       margin-width: 300px
     linestretch: 1.4
     page-layout: full
-    # respect-user-color-scheme: true
+    respect-user-color-scheme: true
