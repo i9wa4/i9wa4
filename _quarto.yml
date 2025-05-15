@@ -7,3 +7,48 @@ theme:
   # https://quarto.org/docs/output-formats/html-themes.html
   light: yeti
   dark: superhero
+
+website:
+  title: "About me - uma-chan"
+  bread-crumbs: true
+  site-url: "https://i9wa4.github.io/i9wa4"
+  search: false
+  # navbar: true
+  sidebar:
+    style: floating
+    contents:
+      - section: "My Other Websites"
+        contents:
+          - href: "https://i9wa4.github.io"
+            text: "My Page"
+          - href: "https://i9wa4.github.io/resume"
+            text: "Resume"
+      - text: "---"
+      - section: "External Links"
+        contents:
+          - href: "https://github.com/i9wa4"
+            text: "GitHub"
+          - href: "https://x.com/i9wa4_"
+            text: "X (Twitter)"
+          - href: "https://www.linkedin.com/in/daikm/"
+            text: "LinkedIn"
+          - href: "https://zenn.dev/i9wa4"
+            text: "Zenn"
+  page-footer:
+    left:
+      - text: "Copyright 2024, uma-chan"
+    right:
+      - href: "https://quarto.org/"
+        text: "Built with Quarto"
+    background: light
+
+format:
+  html:
+    code-copy: true
+    code-overflow: wrap
+    grid:
+      sidebar-width: 250px
+      body-width: 900px
+      margin-width: 300px
+    linestretch: 1.4
+    page-layout: full
