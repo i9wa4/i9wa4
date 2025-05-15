@@ -52,3 +52,4 @@ format:
       margin-width: 300px
     linestretch: 1.4
     page-layout: full
+    respect-user-color-scheme: true
