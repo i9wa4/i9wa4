@@ -3,7 +3,10 @@ project:
   output-dir: "_site"
 
 date-format: iso
-theme:
-  # https://quarto.org/docs/output-formats/html-themes.html
-  light: yeti
-  dark: darkly
+
+format:
+  html:
+    # https://quarto.org/docs/output-formats/html-themes.html
+    theme:
+      light: yeti
+      dark: darkly
