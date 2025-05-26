@@ -76,6 +76,7 @@ format-links: false
     [![Cursor](https://img.shields.io/badge/Cursor-808080.svg?logoColor=white)](https://shields.io)
     [![Devin](https://img.shields.io/badge/Devin-808080.svg?logoColor=white)](https://shields.io)
     [![MCP](https://img.shields.io/badge/MCP-808080.svg?logoColor=white)](https://shields.io)
+    [![langchain-mcp-adapters](https://img.shields.io/badge/langchain-mcp-adapters-808080.svg?logoColor=white)](https://shields.io)
 
 ## GitHub Stats
 
