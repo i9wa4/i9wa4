@@ -1,4 +1,4 @@
-# About me - uma-chan
+# About me – uma-chan
 
 
 ## uma-chan, Data Engineer, MLOps Engineer and Vim enthusiast!
