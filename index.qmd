@@ -26,6 +26,7 @@ format-links: false
     [![Docker](https://img.shields.io/badge/Docker-1488C6.svg?logo=docker&logoColor=white)](https://shields.io)
     [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://shields.io)
     [![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?logo=githubactions&logoColor=white)](https://shields.io)
+    [![HCP_Terraform](https://img.shields.io/badge/HCP_Terraform-844FBA.svg?logo=terraform&logoColor=white)](https://shields.io)
     [![Terraform](https://img.shields.io/badge/Terraform-844FBA.svg?logo=terraform&logoColor=white)](https://shields.io)
 - Data Engineering<br>
     [![BigQuery](https://img.shields.io/badge/BigQuery-669DF6.svg?logo=googlebigquery&logoColor=white)](https://shields.io)
@@ -73,8 +74,10 @@ format-links: false
     [![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0098FF.svg?logoColor=white)](https://shields.io)
 - AI-Powered Development Tools<br>
     [![Aider](https://img.shields.io/badge/Aider-808080.svg?logoColor=white)](https://shields.io)
+    [![Claude_Code](https://img.shields.io/badge/Claude_Code-D97757.svg?logo=claude&logoColor=white)](https://shields.io)
     [![Cursor](https://img.shields.io/badge/Cursor-808080.svg?logoColor=white)](https://shields.io)
     [![Devin](https://img.shields.io/badge/Devin-808080.svg?logoColor=white)](https://shields.io)
+    [![Gemini_CLI](https://img.shields.io/badge/Gemini_CLI-8E75B2.svg?logo=googlegemini&logoColor=white)](https://shields.io)
     [![MCP](https://img.shields.io/badge/MCP-808080.svg?logoColor=white)](https://shields.io)
     [![langchain-mcp-adapters](https://img.shields.io/badge/langchain_mcp_adapters-808080.svg?logoColor=white)](https://shields.io)
 
