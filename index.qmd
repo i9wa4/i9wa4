@@ -14,7 +14,18 @@ format:
 format-links: false
 ---
 
-## uma-chan, Data Engineer, MLOps Engineer and Vim enthusiast!
+## I'm uma-chan!
+
+```{.yaml}
+profile:
+  name: uma-chan
+  titles:
+    - Data Engineer
+    - MLOps Engineer
+  passions:
+    - Vim
+    - tmux
+```
 
 - My Page: <https://i9wa4.github.io>
 
