@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "About me – uma-chan",
     "section": "",
-    "text": "My Page: https://i9wa4.github.io"
+    "text": "profile:\n  name: uma-chan\n  titles:\n    - Data Engineer\n    - MLOps Engineer\n  passions:\n    - Vim\n    - tmux\n\nMy Page: https://i9wa4.github.io"
   },
   {
-    "objectID": "index.html#uma-chan-data-engineer-mlops-engineer-and-vim-enthusiast",
-    "href": "index.html#uma-chan-data-engineer-mlops-engineer-and-vim-enthusiast",
+    "objectID": "index.html#im-uma-chan",
+    "href": "index.html#im-uma-chan",
     "title": "About me – uma-chan",
     "section": "",
-    "text": "My Page: https://i9wa4.github.io"
+    "text": "profile:\n  name: uma-chan\n  titles:\n    - Data Engineer\n    - MLOps Engineer\n  passions:\n    - Vim\n    - tmux\n\nMy Page: https://i9wa4.github.io"
   },
   {
     "objectID": "index.html#skills",
