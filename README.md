@@ -1,7 +1,7 @@
 # About me – uma-chan
 
 
-## I’m uma-chan!
+## Hi, I’m uma-chan!
 
 ``` yaml
 profile:
