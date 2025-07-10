@@ -14,7 +14,7 @@ format:
 format-links: false
 ---
 
-## I'm uma-chan!
+## Hi, I'm uma-chan!
 
 ```{.yaml}
 profile:
