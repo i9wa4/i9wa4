@@ -75,10 +75,11 @@ profile:
     [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white)](https://shields.io)
 - Terminal<br>
     [![Alacritty](https://img.shields.io/badge/Alacritty-F46D01.svg?logo=alacritty&logoColor=white)](https://shields.io)
-    [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)](https://shields.io)
     [![Ghostty](https://img.shields.io/badge/Ghostty-808080.svg?logoColor=white)](https://shields.io)
-    [![Zsh](https://img.shields.io/badge/Zsh-F15A24.svg?logo=zsh&logoColor=white)](https://shields.io)
     [![tmux](https://img.shields.io/badge/tmux-1BB91F.svg?logo=tmux&logoColor=white)](https://shields.io)
+- Shell<br>
+    [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)](https://shields.io)
+    [![Zsh](https://img.shields.io/badge/Zsh-F15A24.svg?logo=zsh&logoColor=white)](https://shields.io)
 - Text Editor<br>
     [![Neovim](https://img.shields.io/badge/Neovim-57A143.svg?logo=neovim&logoColor=white)](https://shields.io)
     [![Vim](https://img.shields.io/badge/Vim-019733.svg?logo=vim&logoColor=white)](https://shields.io)
@@ -112,6 +113,4 @@ profile:
 <!--   </a>                                                                                                                                                                                                                 -->
 <!-- </div>                                                                                                                                                                                                                 -->
 
-[![](https://raw.githubusercontent.com/i9wa4/github-profile-summary-cards/main/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/i9wa4/github-profile-summary-cards/main/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/i9wa4/github-profile-summary-cards/main/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/i9wa4/github-profile-summary-cards/main/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/i9wa4/github-profile-summary-cards/main/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/i9wa4/github-profile-summary-cards/main/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/i9wa4/github-profile-summary-cards/main/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
