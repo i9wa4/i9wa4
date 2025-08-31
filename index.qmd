@@ -34,7 +34,7 @@ profile:
 <!-- <https://simpleicons.org> -->
 
 - IaC (Infrastructure as Code)<br>
-    [![AWS_CloudFormation](https://img.shields.io/badge/AWS_CloudFormation-2D8F7A.svg?logo=amazonwebservices&logoColor=white)](https://shields.io)
+    [![AWS_CloudFormation](https://img.shields.io/badge/AWS_CloudFormation-232F3E.svg?logo=amazonwebservices&logoColor=white)](https://shields.io)
     [![Docker](https://img.shields.io/badge/Docker-1488C6.svg?logo=docker&logoColor=white)](https://shields.io)
     [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://shields.io)
     [![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?logo=githubactions&logoColor=white)](https://shields.io)
@@ -53,7 +53,7 @@ profile:
     [![Databricks](https://img.shields.io/badge/Databricks-FF3621.svg?logo=databricks&logoColor=white)](https://shields.io)
     [![Looker](https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=white)](https://shields.io)
 - Machine Learning<br>
-    [![Amazon_SageMaker](https://img.shields.io/badge/Amazon_SageMaker-2D8F7A.svg?logo=amazonwebservices&logoColor=white)](https://shields.io)
+    [![Amazon_SageMaker](https://img.shields.io/badge/Amazon_SageMaker-232F3E.svg?logo=amazonwebservices&logoColor=white)](https://shields.io)
     [![Databricks](https://img.shields.io/badge/Databricks-FF3621.svg?logo=databricks&logoColor=white)](https://shields.io)
     [![DataRobot](https://img.shields.io/badge/DataRobot-00B2FF.svg?logoColor=white)](https://shields.io)
     [![Snowpark_ML](https://img.shields.io/badge/Snowpark_ML-29B5E8.svg?logo=snowflake&logoColor=white)](https://shields.io)
