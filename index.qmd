@@ -34,6 +34,7 @@ profile:
 <!-- <https://simpleicons.org> -->
 
 - IaC (Infrastructure as Code)<br>
+    [![AWS_CloudFormation](https://img.shields.io/badge/AWS_CloudFormation-2D8F7A.svg?logo=amazonwebservices&logoColor=white)](https://shields.io)
     [![Docker](https://img.shields.io/badge/Docker-1488C6.svg?logo=docker&logoColor=white)](https://shields.io)
     [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://shields.io)
     [![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?logo=githubactions&logoColor=white)](https://shields.io)
@@ -46,8 +47,8 @@ profile:
     [![Embulk](https://img.shields.io/badge/Embulk-EF4319.svg?logoColor=white)](https://shields.io)
     [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8.svg?logo=snowflake&logoColor=white)](https://shields.io)
     [![TROCCO](https://img.shields.io/badge/TROCCO-808080.svg?logoColor=white)](https://shields.io)
-    [![dbt Cloud](https://img.shields.io/badge/dbt_Cloud-FF694B.svg?logo=dbt&logoColor=white)](https://shields.io)
-    [![dbt Core](https://img.shields.io/badge/dbt_Core-FF694B.svg?logo=dbt&logoColor=white)](https://shields.io)
+    [![dbt_Cloud](https://img.shields.io/badge/dbt_Cloud-FF694B.svg?logo=dbt&logoColor=white)](https://shields.io)
+    [![dbt_Core](https://img.shields.io/badge/dbt_Core-FF694B.svg?logo=dbt&logoColor=white)](https://shields.io)
 - BI (Business Intelligence) Dashboard<br>
     [![Databricks](https://img.shields.io/badge/Databricks-FF3621.svg?logo=databricks&logoColor=white)](https://shields.io)
     [![Looker](https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=white)](https://shields.io)
@@ -57,7 +58,7 @@ profile:
     [![DataRobot](https://img.shields.io/badge/DataRobot-00B2FF.svg?logoColor=white)](https://shields.io)
     [![Snowpark_ML](https://img.shields.io/badge/Snowpark_ML-29B5E8.svg?logo=snowflake&logoColor=white)](https://shields.io)
 - OS<br>
-    [![Amazon Linux](https://img.shields.io/badge/Amazon_Linux-232F3E.svg?logo=amazonwebservices&logoColor=white)](https://shields.io)
+    [![Amazon_Linux](https://img.shields.io/badge/Amazon_Linux-232F3E.svg?logo=amazonwebservices&logoColor=white)](https://shields.io)
     [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white)](https://shields.io)
     [![Windows](https://img.shields.io/badge/Windows-808080.svg?logoColor=white)](https://shields.io)
     [![macOS](https://img.shields.io/badge/macOS-000000.svg?logo=apple&logoColor=white)](https://shields.io)
@@ -65,7 +66,7 @@ profile:
     [![C](https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=white)](https://shields.io)
     [![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)](https://shields.io)
     [![SQL](https://img.shields.io/badge/SQL-808080.svg?logoColor=white)](https://shields.io)
-    [![Shell Script](https://img.shields.io/badge/Shell_Script-808080.svg?logoColor=white)](https://shields.io)
+    [![Shell_Script](https://img.shields.io/badge/Shell_Script-808080.svg?logoColor=white)](https://shields.io)
     [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white)](https://shields.io)
 - Cloud Computing Service<br>
     [![Amazon_Web_Services](https://img.shields.io/badge/Amazon_Web_Services-232F3E.svg?logo=amazonwebservices&logoColor=white)](https://shields.io)
@@ -91,7 +92,6 @@ profile:
     [![Devin](https://img.shields.io/badge/Devin-808080.svg?logoColor=white)](https://shields.io)
     [![Gemini_CLI](https://img.shields.io/badge/Gemini_CLI-8E75B2.svg?logo=googlegemini&logoColor=white)](https://shields.io)
     [![MCP](https://img.shields.io/badge/MCP-808080.svg?logoColor=white)](https://shields.io)
-    [![langchain-mcp-adapters](https://img.shields.io/badge/langchain_mcp_adapters-808080.svg?logoColor=white)](https://shields.io)
 
 ## GitHub Stats
 
