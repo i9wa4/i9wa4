@@ -19,9 +19,17 @@ format-links: false
 ```{.yaml}
 profile:
   name: uma-chan
-  titles:
-    - Data Engineer
-    - MLOps Engineer
+
+  organizations:
+    - name: GENDA Inc.
+      roles:
+        - Data Engineer
+        - MLOps Engineer
+
+    - name: PIVOT, Inc.
+      roles:
+        - Data Engineer
+
   passions:
     - Vim
     - tmux
