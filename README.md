@@ -1,7 +1,7 @@
 # About me
 
 
-## 1. Hi, I’m uma-chan!
+## 1. Hi, I’m uma-chan
 
 ``` yaml
 profile:
@@ -21,6 +21,34 @@ profile:
     - Vim
     - tmux
 ```
+
+<!--
+Badge generation (style=social):
+&#10;1. Basic format:
+   https://img.shields.io/badge/{LABEL}-{MESSAGE}-x.svg?style=social&logo={ICON}
+   - {LABEL}: Service name (GitHub, X, etc.)
+   - {MESSAGE}: User ID
+   - -x: Dummy color (ignored in social style but required as separator)
+   - Escape underscore: _ -> __
+&#10;2. Icons:
+   - Simple Icons: https://simpleicons.org
+   - Available: github, x, bluesky, zenn
+   - NOT available: linkedin (removed due to brand guidelines)
+&#10;3. LinkedIn workaround (Iconify + base64):
+   Step 1: Get SVG from Iconify API
+     curl "https://api.iconify.design/ri/linkedin-fill.svg?color=%230A66C2"
+   Step 2: Base64 encode
+     echo '<svg>...</svg>' | base64 | tr -d '\n'
+   Step 3: Use HTML tag (Markdown adds .png suffix, breaking base64)
+     <a href="URL"><img src="...?logo=data:image/svg+xml;base64,{BASE64}" alt="LinkedIn"></a>
+&#10;   Iconify icon search: https://icon-sets.iconify.design
+-->
+
+[![GitHub](https://img.shields.io/badge/GitHub-i9wa4-x.svg?style=social&logo=github)](https://github.com/i9wa4)
+[![X](https://img.shields.io/badge/X-i9wa4__-x.svg?style=social&logo=x)](https://x.com/i9wa4_)
+<a href="https://www.linkedin.com/in/daikm"><img src="https://img.shields.io/badge/LinkedIn-daikm-x.svg?style=social&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiMwQTY2QzIiIGQ9Ik02Ljk0IDVhMiAyIDAgMSAxLTQtLjAwMmEyIDIgMCAwIDEgNCAuMDAyTTcgOC40OEgzVjIxaDR6bTYuMzIgMEg5LjM0VjIxaDMuOTR2LTYuNTdjMC0zLjY2IDQuNzctNCA0Ljc3IDBWMjFIMjJ2LTcuOTNjMC02LjE3LTcuMDYtNS45NC04LjcyLTIuOTF6Ii8+PC9zdmc+Cg==" alt="LinkedIn"></a>
+[![Bluesky](https://img.shields.io/badge/Bluesky-i9wa4-x.svg?style=social&logo=bluesky)](https://bsky.app/profile/i9wa4.bsky.social)
+[![Zenn](https://img.shields.io/badge/Zenn-i9wa4-x.svg?style=social&logo=zenn)](https://zenn.dev/i9wa4)
 
 ## 2. Skills
 
@@ -103,8 +131,13 @@ profile:
 
 </div>
 
-[![](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![0 Profile Details
+image](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![1 Repos Per Language
+image](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![2 Most Commit Language
+image](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![3 Stats
+image](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![4 Productive Time
+image](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
