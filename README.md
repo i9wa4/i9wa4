@@ -1,26 +1,7 @@
-# About me
+# Top
 
 
-## 1. Hi, I’m uma-chan
-
-``` yaml
-profile:
-  name: uma-chan
-
-  organizations:
-    - name: GENDA Inc.
-      roles:
-        - Data Engineer
-        - MLOps Engineer
-
-    - name: PIVOT, Inc.
-      roles:
-        - Data Engineer
-
-  passions:
-    - Vim
-    - tmux
-```
+## 1. Hi, I’m uma-chan! 👋
 
 <!--
 Badge generation (style=social):
@@ -49,6 +30,25 @@ Badge generation (style=social):
 <a href="https://www.linkedin.com/in/daikm"><img src="https://img.shields.io/badge/LinkedIn-daikm-x.svg?style=social&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiMwQTY2QzIiIGQ9Ik02Ljk0IDVhMiAyIDAgMSAxLTQtLjAwMmEyIDIgMCAwIDEgNCAuMDAyTTcgOC40OEgzVjIxaDR6bTYuMzIgMEg5LjM0VjIxaDMuOTR2LTYuNTdjMC0zLjY2IDQuNzctNCA0Ljc3IDBWMjFIMjJ2LTcuOTNjMC02LjE3LTcuMDYtNS45NC04LjcyLTIuOTF6Ii8+PC9zdmc+Cg==" alt="LinkedIn"></a>
 [![Bluesky](https://img.shields.io/badge/Bluesky-i9wa4-x.svg?style=social&logo=bluesky)](https://bsky.app/profile/i9wa4.bsky.social)
 [![Zenn](https://img.shields.io/badge/Zenn-i9wa4-x.svg?style=social&logo=zenn)](https://zenn.dev/i9wa4)
+
+``` yaml
+profile:
+  name: uma-chan
+
+  organizations:
+    - name: GENDA Inc.
+      roles:
+        - Data Engineer
+        - MLOps Engineer
+
+    - name: PIVOT, Inc.
+      roles:
+        - Data Engineer
+
+  passions:
+    - Vim
+    - tmux
+```
 
 ## 2. Skills
 
@@ -157,13 +157,8 @@ Badge generation (color style):
 
 </div>
 
-[![0 Profile Details
-image](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![1 Repos Per Language
-image](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![2 Most Commit Language
-image](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![3 Stats
-image](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![4 Productive Time
-image](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![0-profile-details](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![1-repos-per-language](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![2-most-commit-language](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![3-stats](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![4-productive-time](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
