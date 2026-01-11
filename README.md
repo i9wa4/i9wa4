@@ -28,9 +28,7 @@ Badge generation (style=social):
 [![GitHub](https://img.shields.io/badge/GitHub-i9wa4-x.svg?style=social&logo=github)](https://github.com/i9wa4)
 [![X](https://img.shields.io/badge/X-i9wa4__-x.svg?style=social&logo=x)](https://x.com/i9wa4_)
 <a href="https://www.linkedin.com/in/daikm"><img src="https://img.shields.io/badge/LinkedIn-daikm-x.svg?style=social&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiMwQTY2QzIiIGQ9Ik02Ljk0IDVhMiAyIDAgMSAxLTQtLjAwMmEyIDIgMCAwIDEgNCAuMDAyTTcgOC40OEgzVjIxaDR6bTYuMzIgMEg5LjM0VjIxaDMuOTR2LTYuNTdjMC0zLjY2IDQuNzctNCA0Ljc3IDBWMjFIMjJ2LTcuOTNjMC02LjE3LTcuMDYtNS45NC04LjcyLTIuOTF6Ii8+PC9zdmc+Cg==" alt="LinkedIn"></a>
-[![Bluesky](https://img.shields.io/badge/Bluesky-i9wa4-x.svg?style=social&logo=bluesky)](https://bsky.app/profile/i9wa4.bsky.social)
 [![Zenn](https://img.shields.io/badge/Zenn-i9wa4-x.svg?style=social&logo=zenn)](https://zenn.dev/i9wa4)
-[![Codeberg](https://img.shields.io/badge/Codeberg-i9wa4-x.svg?style=social&logo=codeberg)](https://codeberg.org/i9wa4)
 
 ``` yaml
 profile:
@@ -51,60 +49,11 @@ profile:
     - tmux
 ```
 
-## 2. Skills
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,github,githubactions,nix,apple,linux,windows,postgres,mysql,py,ts,c,neovim,vim,vscode&perline=10" alt="skillicons"></a>
 
-<!--
-Icon sources:
-&#10;- Simple Icons CDN: https://cdn.simpleicons.org/{icon}/{color}
-- Iconify API: https://api.iconify.design/simple-icons/{icon}.svg?color=%23{color}
-- Color reference: https://simpleicons.org
--->
+<img height="48px" src="https://cdn.simpleicons.org/databricks/FF3621"><img height="48px" src="https://cdn.simpleicons.org/snowflake/29B5E8"><img height="48px" src="https://cdn.simpleicons.org/googlebigquery/669DF6"><img height="48px" src="https://cdn.simpleicons.org/claude/D97757">
 
-<img height="48px" src="https://api.iconify.design/simple-icons/amazonaws.svg?color=%23232F3E">
-<img height="48px" src="https://cdn.simpleicons.org/googlecloud/4285F4">
-
-<img height="48px" src="https://cdn.simpleicons.org/docker/1488C6">
-<img height="48px" src="https://cdn.simpleicons.org/terraform/844FBA">
-<img height="48px" src="https://cdn.simpleicons.org/github/181717">
-<img height="48px" src="https://cdn.simpleicons.org/githubactions/2088FF">
-<img height="48px" src="https://cdn.simpleicons.org/nixos/5277C3">
-
-<img height="48px" src="https://api.iconify.design/simple-icons/dbt.svg?color=%23FF694B">
-<img height="48px" src="https://cdn.simpleicons.org/databricks/FF3621">
-<img height="48px" src="https://cdn.simpleicons.org/snowflake/29B5E8">
-<img height="48px" src="https://cdn.simpleicons.org/googlebigquery/669DF6">
-<img height="48px" src="https://cdn.simpleicons.org/looker/4285F4">
-
-<img height="48px" src="https://cdn.simpleicons.org/apple/000000">
-<img height="48px" src="https://cdn.simpleicons.org/ubuntu/E95420">
-<img height="48px" src="https://api.iconify.design/simple-icons/windows.svg?color=%230078D4">
-
-<img height="48px" src="https://cdn.simpleicons.org/postgresql/4169E1">
-<img height="48px" src="https://cdn.simpleicons.org/mysql/4479A1">
-<img height="48px" src="https://api.iconify.design/simple-icons/microsoftsqlserver.svg?color=%23CC2927">
-
-<img height="48px" src="https://cdn.simpleicons.org/python/3776AB">
-<img height="48px" src="https://cdn.simpleicons.org/typescript/3178C6">
-<img height="48px" src="https://cdn.simpleicons.org/c/A8B9CC">
-
-<img height="48px" src="https://cdn.simpleicons.org/alacritty/F46D01">
-<img height="48px" src="https://cdn.simpleicons.org/ghostty/3551F3">
-<img height="48px" src="https://cdn.simpleicons.org/wezterm/4E49EE">
-<img height="48px" src="https://cdn.simpleicons.org/tmux/1BB91F">
-<img height="48px" src="https://cdn.simpleicons.org/zsh/F15A24">
-<img height="48px" src="https://cdn.simpleicons.org/gnubash/4EAA25">
-
-<img height="48px" src="https://cdn.simpleicons.org/vim/019733">
-<img height="48px" src="https://cdn.simpleicons.org/neovim/57A143">
-<img height="48px" src="https://api.iconify.design/simple-icons/visualstudiocode.svg?color=%23007ACC">
-
-<img height="48px" src="https://cdn.simpleicons.org/claude/D97757">
-<img height="48px" src="https://api.iconify.design/simple-icons/openai.svg?color=%23412991">
-<img height="48px" src="https://cdn.simpleicons.org/cursor/000000">
-<img height="48px" src="https://cdn.simpleicons.org/googlegemini/8E75B2">
-<img height="48px" src="https://cdn.simpleicons.org/githubcopilot/000000">
-
-## 3. GitHub Stats
+## 2. GitHub Stats
 
 <div align="left">
 
@@ -115,7 +64,5 @@ Icon sources:
 </div>
 
 [![0-profile-details](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-<!-- [![1-repos-per-language](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![2-most-commit-language](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
-<!-- [![3-stats](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![4-productive-time](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)                                     -->
 [![3-stats](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![2-most-commit-language](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
