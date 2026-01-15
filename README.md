@@ -23,9 +23,10 @@ Badge generation (style=social):
 &#10;   Iconify icon search: https://icon-sets.iconify.design
 -->
 
-[![GitHub](https://img.shields.io/badge/GitHub-i9wa4-x.svg?style=social&logo=github)](https://github.com/i9wa4)
-[![X](https://img.shields.io/badge/X-i9wa4__-x.svg?style=social&logo=x)](https://x.com/i9wa4_)
-<a href="https://www.linkedin.com/in/daikm"><img src="https://img.shields.io/badge/LinkedIn-daikm-x.svg?style=social&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiMwQTY2QzIiIGQ9Ik02Ljk0IDVhMiAyIDAgMSAxLTQtLjAwMmEyIDIgMCAwIDEgNCAuMDAyTTcgOC40OEgzVjIxaDR6bTYuMzIgMEg5LjM0VjIxaDMuOTR2LTYuNTdjMC0zLjY2IDQuNzctNCA0Ljc3IDBWMjFIMjJ2LTcuOTNjMC02LjE3LTcuMDYtNS45NC04LjcyLTIuOTF6Ii8+PC9zdmc+Cg==" alt="LinkedIn"></a>
+[![Website](https://img.shields.io/badge/Website-i9wa4.github.io-181717?style=flat&logo=googlechrome&logoColor=white)](https://i9wa4.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-i9wa4-181717?style=flat&logo=github&logoColor=white.png)](https://github.com/i9wa4)
+[![X](https://img.shields.io/badge/X-i9wa4__-000000?style=flat&logo=x&logoColor=white.png)](https://x.com/i9wa4_)
+<a href="https://www.linkedin.com/in/daikm"><img src="https://img.shields.io/badge/LinkedIn-daikm-0A66C2?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik02Ljk0IDVhMiAyIDAgMSAxLTQtLjAwMmEyIDIgMCAwIDEgNCAuMDAyTTcgOC40OEgzVjIxaDR6bTYuMzIgMEg5LjM0VjIxaDMuOTR2LTYuNTdjMC0zLjY2IDQuNzctNCA0Ljc3IDBWMjFIMjJ2LTcuOTNjMC02LjE3LTcuMDYtNS45NC04LjcyLTIuOTF6Ii8+PC9zdmc+Cg==" alt="LinkedIn"></a>
 
 ``` yaml
 profile:
@@ -52,7 +53,7 @@ profile:
 <div align="left">
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
-<img src="https://komarev.com/ghpvc/?username=i9wa4&label=GitHub_Profile_Views"/>
+<img src="https://komarev.com/ghpvc/?username=i9wa4&label=GitHub_Profile_Views&style=flat"/>
 </a>
 
 </div>
