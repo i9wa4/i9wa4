@@ -47,8 +47,8 @@ profile:
     - Databricks
 ```
 
-[![3-stats](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![2-most-commit-language](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![0-profile-details](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![3-stats](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![1-repos-per-language](https://raw.githubusercontent.com/i9wa4/i9wa4.github.io/gh-summary/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <div align="left">
 
